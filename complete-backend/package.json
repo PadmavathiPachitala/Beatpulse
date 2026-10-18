@@ -1,0 +1,33 @@
+{
+  "name": "complete-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node tests/api-rbac.test.js && node tests/deep-rbac.test.js && node tests/indian-music.test.js && node tests/security-hardening.test.js && node tests/lyrics.test.js && node tests/playlist.test.js",
+    "dev": "npx nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "type": "commonjs",
+  "dependencies": {
+    "@imagekit/nodejs": "^7.1.0",
+    "bcryptjs": "^3.0.2",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.18.3",
+    "multer": "^2.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

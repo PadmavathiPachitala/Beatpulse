@@ -1,0 +1,2935 @@
+[
+  {
+    "id": "trending",
+    "tag": "trending",
+    "title": "Trending Now • Viral Hits",
+    "name": "Trending Now • Viral Hits",
+    "tracks": [
+      {
+        "_id": "ext_saavn_4PYZR6Ng",
+        "id": "ext_saavn_4PYZR6Ng",
+        "externalId": "4PYZR6Ng",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Endhayya Saami",
+        "name": "Endhayya Saami",
+        "uri": "https://aac.saavncdn.com/172/f2d8896deacc5d5c5aa2cc9bb3668265_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/172/f2d8896deacc5d5c5aa2cc9bb3668265_160.mp4",
+        "coverImage": "https://c.saavncdn.com/172/Ranabaali-Hindi-Telugu-2026-20261014171014-500x500.jpg",
+        "duration": 328,
+        "duration_ms": 328000,
+        "playsCount": 1058268,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_459381",
+          "username": "Ajay-Atul",
+          "name": "Ajay-Atul",
+          "role": "artist"
+        },
+        "artistName": "Ajay-Atul",
+        "album": {
+          "_id": "ext_saavn_album_81994977",
+          "title": "Ranabaali - Telugu",
+          "coverImage": "https://c.saavncdn.com/172/Ranabaali-Hindi-Telugu-2026-20261014171014-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_kBN0Uf9F",
+        "id": "ext_saavn_kBN0Uf9F",
+        "externalId": "kBN0Uf9F",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Pesamale",
+        "name": "Pesamale",
+        "uri": "https://aac.saavncdn.com/868/d5e8f13dd1565867a2c6807865b61264_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/868/d5e8f13dd1565867a2c6807865b61264_160.mp4",
+        "coverImage": "https://c.saavncdn.com/868/Pesamale-Tamil-2026-20260922125033-500x500.jpg",
+        "duration": 178,
+        "duration_ms": 178000,
+        "playsCount": 1447001,
+        "language": "tamil",
+        "artist": {
+          "_id": "ext_saavn_artist_25272712",
+          "username": "Siri Xander",
+          "name": "Siri Xander",
+          "role": "artist"
+        },
+        "artistName": "Siri Xander",
+        "album": {
+          "_id": "ext_saavn_album_78430287",
+          "title": "Pesamale",
+          "coverImage": "https://c.saavncdn.com/868/Pesamale-Tamil-2026-20260922125033-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_P5pjB99X",
+        "id": "ext_saavn_P5pjB99X",
+        "externalId": "P5pjB99X",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Radhimaa (From \"Think Indie\")",
+        "name": "Radhimaa (From \"Think Indie\")",
+        "uri": "https://aac.saavncdn.com/877/875e41134def3f76517ce29ea7819fc8_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/877/875e41134def3f76517ce29ea7819fc8_160.mp4",
+        "coverImage": "https://c.saavncdn.com/877/Radhimaa-From-Think-Indie-Tamil-2026-20260827192132-500x500.jpg",
+        "duration": 259,
+        "duration_ms": 259000,
+        "playsCount": 3856257,
+        "language": "tamil",
+        "artist": {
+          "_id": "ext_saavn_artist_14477737",
+          "username": "Sai Abhyankkar",
+          "name": "Sai Abhyankkar",
+          "role": "artist"
+        },
+        "artistName": "Sai Abhyankkar",
+        "album": {
+          "_id": "ext_saavn_album_79613192",
+          "title": "Radhimaa (From \"Think Indie\")",
+          "coverImage": "https://c.saavncdn.com/877/Radhimaa-From-Think-Indie-Tamil-2026-20260827192132-500x500.jpg"
+        }
+      },
+      {
+        "_id": "6ad1137ca0f4c40a6dde9548",
+        "uri": "https://aac.saavncdn.com/550/071e62b11e1b4f38461b4cfff20f3181_160.mp4",
+        "title": "Uppongela Godavari",
+        "artistName": "S.P. Balasubrahmanyam",
+        "coverImage": "https://c.saavncdn.com/550/Godavari-Telugu-2013-20260119181612-500x500.jpg",
+        "duration": 294,
+        "playsCount": 0,
+        "isExternal": true,
+        "externalId": "KViGKwVJ",
+        "source": "saavn",
+        "createdAt": "2026-10-15T17:55:08.608Z",
+        "updatedAt": "2026-10-15T17:55:08.608Z",
+        "__v": 0
+      },
+      {
+        "_id": "ext_saavn_YYHedldq",
+        "id": "ext_saavn_YYHedldq",
+        "externalId": "YYHedldq",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Yamunatheeram",
+        "name": "Yamunatheeram",
+        "uri": "https://aac.saavncdn.com/453/3e50b61ad4420024fb0d3af09f1d74ff_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/453/3e50b61ad4420024fb0d3af09f1d74ff_160.mp4",
+        "coverImage": "https://c.saavncdn.com/453/Anand-2004-500x500.jpg",
+        "duration": 250,
+        "duration_ms": 250000,
+        "playsCount": 3433432,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_460730",
+          "username": "K.M. Radha Krishnan",
+          "name": "K.M. Radha Krishnan",
+          "role": "artist"
+        },
+        "artistName": "K.M. Radha Krishnan",
+        "album": {
+          "_id": "ext_saavn_album_1019453",
+          "title": "Anand",
+          "coverImage": "https://c.saavncdn.com/453/Anand-2004-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_0DOpkQj1",
+        "id": "ext_saavn_0DOpkQj1",
+        "externalId": "0DOpkQj1",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Arey Rey",
+        "name": "Arey Rey",
+        "uri": "https://aac.saavncdn.com/361/485c239e9e4b6b8c35daa02458572998_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/361/485c239e9e4b6b8c35daa02458572998_160.mp4",
+        "coverImage": "https://c.saavncdn.com/709/Happy-Days-Telugu-2010-20231010162618-500x500.jpg",
+        "duration": 296,
+        "duration_ms": 296000,
+        "playsCount": 3783090,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_455233",
+          "username": "Mickey J Meyer",
+          "name": "Mickey J Meyer",
+          "role": "artist"
+        },
+        "artistName": "Mickey J Meyer",
+        "album": {
+          "_id": "ext_saavn_album_1029361",
+          "title": "Happy Days",
+          "coverImage": "https://c.saavncdn.com/709/Happy-Days-Telugu-2010-20231010162618-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_SAVw2JqJ",
+        "id": "ext_saavn_SAVw2JqJ",
+        "externalId": "SAVw2JqJ",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Hey Pillagaada",
+        "name": "Hey Pillagaada",
+        "uri": "https://aac.saavncdn.com/904/d92507c33a3a123636fe57a004f5eee5_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/904/d92507c33a3a123636fe57a004f5eee5_160.mp4",
+        "coverImage": "https://c.saavncdn.com/904/Fidaa-Telugu-2017-500x500.jpg",
+        "duration": 248,
+        "duration_ms": 248000,
+        "playsCount": 9242839,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_1490454",
+          "username": "Sinduri Vishal",
+          "name": "Sinduri Vishal",
+          "role": "artist"
+        },
+        "artistName": "Sinduri Vishal",
+        "album": {
+          "_id": "ext_saavn_album_11080147",
+          "title": "Fidaa",
+          "coverImage": "https://c.saavncdn.com/904/Fidaa-Telugu-2017-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_wBgCQQ_6",
+        "id": "ext_saavn_wBgCQQ_6",
+        "externalId": "wBgCQQ_6",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Illuminati",
+        "name": "Illuminati",
+        "uri": "https://aac.saavncdn.com/202/ba6006006a2f40e6b20b5ced32cc2885_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/202/ba6006006a2f40e6b20b5ced32cc2885_160.mp4",
+        "coverImage": "https://c.saavncdn.com/202/Aavesham-Original-Motion-Picture-Soundtrack-Malayalam-2024-20250910150630-500x500.jpg",
+        "duration": 212,
+        "duration_ms": 212000,
+        "playsCount": 21129537,
+        "language": "malayalam",
+        "artist": {
+          "_id": "ext_saavn_artist_758680",
+          "username": "Vinayak Sasikumar",
+          "name": "Vinayak Sasikumar",
+          "role": "artist"
+        },
+        "artistName": "Vinayak Sasikumar",
+        "album": {
+          "_id": "ext_saavn_album_52210422",
+          "title": "Aavesham (Original Motion Picture Soundtrack)",
+          "coverImage": "https://c.saavncdn.com/202/Aavesham-Original-Motion-Picture-Soundtrack-Malayalam-2024-20250910150630-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_Q6l0a09y",
+        "id": "ext_saavn_Q6l0a09y",
+        "externalId": "Q6l0a09y",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Aaj Ki Raat",
+        "name": "Aaj Ki Raat",
+        "uri": "https://aac.saavncdn.com/373/36b1b3637cdeedfaa9a9012453948aa6_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/373/36b1b3637cdeedfaa9a9012453948aa6_160.mp4",
+        "coverImage": "https://c.saavncdn.com/373/Stree-2-Hindi-2024-20240828083834-500x500.jpg",
+        "duration": 228,
+        "duration_ms": 228000,
+        "playsCount": 95211612,
+        "language": "hindi",
+        "artist": {
+          "_id": "ext_saavn_artist_458681",
+          "username": "Amitabh Bhattacharya",
+          "name": "Amitabh Bhattacharya",
+          "role": "artist"
+        },
+        "artistName": "Amitabh Bhattacharya",
+        "album": {
+          "_id": "ext_saavn_album_57019500",
+          "title": "Stree 2",
+          "coverImage": "https://c.saavncdn.com/373/Stree-2-Hindi-2024-20240828083834-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_CVeqCCYc",
+        "id": "ext_saavn_CVeqCCYc",
+        "externalId": "CVeqCCYc",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Tauba Tauba",
+        "name": "Tauba Tauba",
+        "uri": "https://aac.saavncdn.com/992/5d44da8bc1d78fb72d18b701d758fd1f_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/992/5d44da8bc1d78fb72d18b701d758fd1f_160.mp4",
+        "coverImage": "https://c.saavncdn.com/992/Bad-Newz-Hindi-2024-20250730113701-500x500.jpg",
+        "duration": 207,
+        "duration_ms": 207000,
+        "playsCount": 36123666,
+        "language": "hindi",
+        "artist": {
+          "_id": "ext_saavn_artist_697691",
+          "username": "Karan Aujla",
+          "name": "Karan Aujla",
+          "role": "artist"
+        },
+        "artistName": "Karan Aujla",
+        "album": {
+          "_id": "ext_saavn_album_56264496",
+          "title": "Bad Newz",
+          "coverImage": "https://c.saavncdn.com/992/Bad-Newz-Hindi-2024-20250730113701-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_u1Qealay",
+        "id": "ext_saavn_u1Qealay",
+        "externalId": "u1Qealay",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Jaana Samjho Na",
+        "name": "Jaana Samjho Na",
+        "uri": "https://aac.saavncdn.com/443/f8fc61d7eba9b0ab0400a352e2a0cc66_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/443/f8fc61d7eba9b0ab0400a352e2a0cc66_160.mp4",
+        "coverImage": "https://c.saavncdn.com/443/Bhool-Bhulaiyaa-3-Hindi-2024-20250430161035-500x500.jpg",
+        "duration": 212,
+        "duration_ms": 212000,
+        "playsCount": 8074901,
+        "language": "hindi",
+        "artist": {
+          "_id": "ext_saavn_artist_7931030",
+          "username": "Aditya Rikhari",
+          "name": "Aditya Rikhari",
+          "role": "artist"
+        },
+        "artistName": "Aditya Rikhari",
+        "album": {
+          "_id": "ext_saavn_album_59022972",
+          "title": "Bhool Bhulaiyaa 3",
+          "coverImage": "https://c.saavncdn.com/443/Bhool-Bhulaiyaa-3-Hindi-2024-20250430161035-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_S0U546YS",
+        "id": "ext_saavn_S0U546YS",
+        "externalId": "S0U546YS",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Millionaire",
+        "name": "Millionaire",
+        "uri": "https://aac.saavncdn.com/173/af61d1cf779677cd767692c0a7f3301f_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/173/af61d1cf779677cd767692c0a7f3301f_160.mp4",
+        "coverImage": "https://c.saavncdn.com/173/GLORY-Hindi-2024-20250117161048-500x500.jpg",
+        "duration": 199,
+        "duration_ms": 199000,
+        "playsCount": 55179829,
+        "language": "hindi",
+        "artist": {
+          "_id": "ext_saavn_artist_485956",
+          "username": "Yo Yo Honey Singh",
+          "name": "Yo Yo Honey Singh",
+          "role": "artist"
+        },
+        "artistName": "Yo Yo Honey Singh",
+        "album": {
+          "_id": "ext_saavn_album_57246869",
+          "title": "GLORY",
+          "coverImage": "https://c.saavncdn.com/173/GLORY-Hindi-2024-20250117161048-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_BVjan6oi",
+        "id": "ext_saavn_BVjan6oi",
+        "externalId": "BVjan6oi",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Hey Minnale",
+        "name": "Hey Minnale",
+        "uri": "https://aac.saavncdn.com/872/d9f7fc1e9eccbcc9f9809e6791fd33ff_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/872/d9f7fc1e9eccbcc9f9809e6791fd33ff_160.mp4",
+        "coverImage": "https://c.saavncdn.com/872/Amaran-Tamil-Tamil-2024-20241119174100-500x500.jpg",
+        "duration": 229,
+        "duration_ms": 229000,
+        "playsCount": 16687685,
+        "language": "tamil",
+        "artist": {
+          "_id": "ext_saavn_artist_457674",
+          "username": "Karthik Netha",
+          "name": "Karthik Netha",
+          "role": "artist"
+        },
+        "artistName": "Karthik Netha",
+        "album": {
+          "_id": "ext_saavn_album_59686460",
+          "title": "Amaran (Tamil)",
+          "coverImage": "https://c.saavncdn.com/872/Amaran-Tamil-Tamil-2024-20241119174100-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_itunes_1705945409",
+        "id": "ext_itunes_1705945409",
+        "externalId": "1705945409",
+        "source": "itunes",
+        "isExternal": true,
+        "title": "Singara Siriye (From \"Kantara\")",
+        "name": "Singara Siriye (From \"Kantara\")",
+        "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/3e/87/383e870d-d19a-ffac-0ef4-6fa188aa2992/mzaf_3402900526629964306.plus.aac.p.m4a",
+        "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/3e/87/383e870d-d19a-ffac-0ef4-6fa188aa2992/mzaf_3402900526629964306.plus.aac.p.m4a",
+        "coverImage": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/08/1e/a0/081ea00b-1dd6-876f-860a-a0add84d317e/8904337278427.jpg/600x600bb.jpg",
+        "duration": 282,
+        "duration_ms": 282000,
+        "playsCount": 0,
+        "artist": {
+          "_id": "ext_itunes_artist_1174881357",
+          "username": "B. Ajaneesh Loknath, Vijay Prakash, Ananya Bhat & Nagraj Panar Valtur",
+          "name": "B. Ajaneesh Loknath, Vijay Prakash, Ananya Bhat & Nagraj Panar Valtur",
+          "role": "artist"
+        },
+        "artistName": "B. Ajaneesh Loknath, Vijay Prakash, Ananya Bhat & Nagraj Panar Valtur",
+        "album": {
+          "_id": "ext_itunes_album_1705945406",
+          "title": "Kantara (Original Motion Picture Soundtrack) - EP",
+          "coverImage": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/08/1e/a0/081ea00b-1dd6-876f-860a-a0add84d317e/8904337278427.jpg/600x600bb.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "telugu",
+    "tag": "telugu",
+    "title": "Telugu Hits & Blockbusters",
+    "name": "Telugu Hits & Blockbusters",
+    "tracks": [
+      {
+        "_id": "ext_saavn_O94kBTtw",
+        "id": "ext_saavn_O94kBTtw",
+        "externalId": "O94kBTtw",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Chuttamalle",
+        "name": "Chuttamalle",
+        "uri": "https://aac.saavncdn.com/313/e49e604945889f330e5b3536dd0ff524_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/313/e49e604945889f330e5b3536dd0ff524_160.mp4",
+        "coverImage": "https://c.saavncdn.com/313/Devara-Part-1-Telugu-Telugu-2024-20240926171010-500x500.jpg",
+        "duration": 222,
+        "duration_ms": 222000,
+        "playsCount": 69766367,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_455663",
+          "username": "Anirudh Ravichander",
+          "name": "Anirudh Ravichander",
+          "role": "artist"
+        },
+        "artistName": "Anirudh Ravichander",
+        "album": {
+          "_id": "ext_saavn_album_58371014",
+          "title": "Devara Part 1 - Telugu",
+          "coverImage": "https://c.saavncdn.com/313/Devara-Part-1-Telugu-Telugu-2024-20240926171010-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_rYwI6HGN",
+        "id": "ext_saavn_rYwI6HGN",
+        "externalId": "rYwI6HGN",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Srimathi Garu",
+        "name": "Srimathi Garu",
+        "uri": "https://aac.saavncdn.com/000/7a099626cd179f550cd5913ee910ad87_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/000/7a099626cd179f550cd5913ee910ad87_160.mp4",
+        "coverImage": "https://c.saavncdn.com/535/Lucky-Baskhar-Telugu-2024-20241116175954-500x500.jpg",
+        "duration": 222,
+        "duration_ms": 222000,
+        "playsCount": 23360384,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_455454",
+          "username": "G.V. Prakash Kumar",
+          "name": "G.V. Prakash Kumar",
+          "role": "artist"
+        },
+        "artistName": "G.V. Prakash Kumar",
+        "album": {
+          "_id": "ext_saavn_album_55379535",
+          "title": "Lucky Baskhar",
+          "coverImage": "https://c.saavncdn.com/535/Lucky-Baskhar-Telugu-2024-20241116175954-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_X2hhi-iY",
+        "id": "ext_saavn_X2hhi-iY",
+        "externalId": "X2hhi-iY",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Garam Garam",
+        "name": "Garam Garam",
+        "uri": "https://aac.saavncdn.com/536/63401be31c63d3f992ab541690b4809f_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/536/63401be31c63d3f992ab541690b4809f_160.mp4",
+        "coverImage": "https://c.saavncdn.com/536/Saripodhaa-Sanivaaram-Original-Motion-Picture-Soundtrack-Telugu-2024-20240828160005-500x500.jpg",
+        "duration": 252,
+        "duration_ms": 252000,
+        "playsCount": 1359754,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_546740",
+          "username": "Jakes Bejoy",
+          "name": "Jakes Bejoy",
+          "role": "artist"
+        },
+        "artistName": "Jakes Bejoy",
+        "album": {
+          "_id": "ext_saavn_album_57522490",
+          "title": "Saripodhaa Sanivaaram",
+          "coverImage": "https://c.saavncdn.com/536/Saripodhaa-Sanivaaram-Original-Motion-Picture-Soundtrack-Telugu-2024-20240828160005-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_Vv39UvCz",
+        "id": "ext_saavn_Vv39UvCz",
+        "externalId": "Vv39UvCz",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Samayama (From \"Hi Nanna\")",
+        "name": "Samayama (From \"Hi Nanna\")",
+        "uri": "https://aac.saavncdn.com/307/a3f7b8cd383c95bad0310aca20e0c2a0_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/307/a3f7b8cd383c95bad0310aca20e0c2a0_160.mp4",
+        "coverImage": "https://c.saavncdn.com/307/Samayama-From-Hi-Nanna-Telugu-2023-20230918164922-500x500.jpg",
+        "duration": 204,
+        "duration_ms": 204000,
+        "playsCount": 19642184,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_1720724",
+          "username": "Hesham Abdul Wahab",
+          "name": "Hesham Abdul Wahab",
+          "role": "artist"
+        },
+        "artistName": "Hesham Abdul Wahab",
+        "album": {
+          "_id": "ext_saavn_album_48309895",
+          "title": "Samayama (From \"Hi Nanna\")",
+          "coverImage": "https://c.saavncdn.com/307/Samayama-From-Hi-Nanna-Telugu-2023-20230918164922-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_HfNOoigd",
+        "id": "ext_saavn_HfNOoigd",
+        "externalId": "HfNOoigd",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Ta Takkara (Complex Song)",
+        "name": "Ta Takkara (Complex Song)",
+        "uri": "https://aac.saavncdn.com/888/ad1248d84cf30da97d5bad03b867e246_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/888/ad1248d84cf30da97d5bad03b867e246_160.mp4",
+        "coverImage": "https://c.saavncdn.com/888/Kalki-2898-Ad-Telugu-Telugu-2024-20240712063717-500x500.jpg",
+        "duration": 207,
+        "duration_ms": 207000,
+        "playsCount": 3960862,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_3560654",
+          "username": "Sanjith Hegde",
+          "name": "Sanjith Hegde",
+          "role": "artist"
+        },
+        "artistName": "Sanjith Hegde",
+        "album": {
+          "_id": "ext_saavn_album_56117658",
+          "title": "Kalki 2898 Ad (Telugu)",
+          "coverImage": "https://c.saavncdn.com/888/Kalki-2898-Ad-Telugu-Telugu-2024-20240712063717-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_iGlEUFsg",
+        "id": "ext_saavn_iGlEUFsg",
+        "externalId": "iGlEUFsg",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Pushpa Pushpa (Telugu)",
+        "name": "Pushpa Pushpa (Telugu)",
+        "uri": "https://aac.saavncdn.com/366/0377fc358eb812da5d44b215b4bebfb3_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/366/0377fc358eb812da5d44b215b4bebfb3_160.mp4",
+        "coverImage": "https://c.saavncdn.com/366/Pushpa-2-The-Rule-Telugu-Telugu-2024-20241205211012-500x500.jpg",
+        "duration": 256,
+        "duration_ms": 256000,
+        "playsCount": 27146691,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_455170",
+          "username": "Devi Sri Prasad",
+          "name": "Devi Sri Prasad",
+          "role": "artist"
+        },
+        "artistName": "Devi Sri Prasad",
+        "album": {
+          "_id": "ext_saavn_album_60254268",
+          "title": "Pushpa 2 The Rule - (Telugu)",
+          "coverImage": "https://c.saavncdn.com/366/Pushpa-2-The-Rule-Telugu-Telugu-2024-20241205211012-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_-JkPBIE7",
+        "id": "ext_saavn_-JkPBIE7",
+        "externalId": "-JkPBIE7",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Naatu Naatu",
+        "name": "Naatu Naatu",
+        "uri": "https://aac.saavncdn.com/683/000ab54759049a8451ffcdc6412a0ef6_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/683/000ab54759049a8451ffcdc6412a0ef6_160.mp4",
+        "coverImage": "https://c.saavncdn.com/683/RRR-Telugu-Telugu-2022-20250828171313-500x500.jpg",
+        "duration": 214,
+        "duration_ms": 214000,
+        "playsCount": 36228622,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_468135",
+          "username": "Rahul Sipligunj",
+          "name": "Rahul Sipligunj",
+          "role": "artist"
+        },
+        "artistName": "Rahul Sipligunj",
+        "album": {
+          "_id": "ext_saavn_album_67297429",
+          "title": "RRR - Telugu",
+          "coverImage": "https://c.saavncdn.com/683/RRR-Telugu-Telugu-2022-20250828171313-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_ARuXdxyk",
+        "id": "ext_saavn_ARuXdxyk",
+        "externalId": "ARuXdxyk",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Kurchi Madathapetti",
+        "name": "Kurchi Madathapetti",
+        "uri": "https://aac.saavncdn.com/000/a8b06cdf02fd61001823e10d55ad3ebe_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/000/a8b06cdf02fd61001823e10d55ad3ebe_160.mp4",
+        "coverImage": "https://c.saavncdn.com/000/Guntur-Kaaram-Telugu-2023-20240126145901-500x500.jpg",
+        "duration": 216,
+        "duration_ms": 216000,
+        "playsCount": 52399190,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_461646",
+          "username": "Mahesh Babu",
+          "name": "Mahesh Babu",
+          "role": "artist"
+        },
+        "artistName": "Mahesh Babu",
+        "album": {
+          "_id": "ext_saavn_album_49567583",
+          "title": "Guntur Kaaram",
+          "coverImage": "https://c.saavncdn.com/000/Guntur-Kaaram-Telugu-2023-20240126145901-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_1UqsPO7u",
+        "id": "ext_saavn_1UqsPO7u",
+        "externalId": "1UqsPO7u",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Buttabomma",
+        "name": "Buttabomma",
+        "uri": "https://aac.saavncdn.com/517/68cc88035f2fbcd5772e6551bf64c111_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/517/68cc88035f2fbcd5772e6551bf64c111_160.mp4",
+        "coverImage": "https://c.saavncdn.com/517/Ala-Vaikunthapurramuloo-Telugu-2019-20200116144338-500x500.jpg",
+        "duration": 198,
+        "duration_ms": 198000,
+        "playsCount": 96246549,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_464656",
+          "username": "Armaan Malik",
+          "name": "Armaan Malik",
+          "role": "artist"
+        },
+        "artistName": "Armaan Malik",
+        "album": {
+          "_id": "ext_saavn_album_17435036",
+          "title": "Ala Vaikunthapurramuloo",
+          "coverImage": "https://c.saavncdn.com/517/Ala-Vaikunthapurramuloo-Telugu-2019-20200116144338-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_hIMaVuLz",
+        "id": "ext_saavn_hIMaVuLz",
+        "externalId": "hIMaVuLz",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Inkem Inkem Inkem Kaavaale",
+        "name": "Inkem Inkem Inkem Kaavaale",
+        "uri": "https://aac.saavncdn.com/237/7942edb73e64d4e35e488337e14753b7_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/237/7942edb73e64d4e35e488337e14753b7_160.mp4",
+        "coverImage": "https://c.saavncdn.com/237/Geetha-Govindam-Telugu-2018-20180921-500x500.jpg",
+        "duration": 266,
+        "duration_ms": 266000,
+        "playsCount": 76856883,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_689580",
+          "username": "Sid Sriram",
+          "name": "Sid Sriram",
+          "role": "artist"
+        },
+        "artistName": "Sid Sriram",
+        "album": {
+          "_id": "ext_saavn_album_13383078",
+          "title": "Geetha Govindam",
+          "coverImage": "https://c.saavncdn.com/237/Geetha-Govindam-Telugu-2018-20180921-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_bmbmkh5r",
+        "id": "ext_saavn_bmbmkh5r",
+        "externalId": "bmbmkh5r",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Pilla Puli",
+        "name": "Pilla Puli",
+        "uri": "https://aac.saavncdn.com/114/d54638a869f0546993bacb52bac38ed3_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/114/d54638a869f0546993bacb52bac38ed3_160.mp4",
+        "coverImage": "https://c.saavncdn.com/114/Aakaasam-Nee-Haddhu-Ra-Telugu-2020-20201111104315-500x500.jpg",
+        "duration": 304,
+        "duration_ms": 304000,
+        "playsCount": 11894097,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_455454",
+          "username": "G.V. Prakash Kumar",
+          "name": "G.V. Prakash Kumar",
+          "role": "artist"
+        },
+        "artistName": "G.V. Prakash Kumar",
+        "album": {
+          "_id": "ext_saavn_album_23443921",
+          "title": "Aakaasam Nee Haddhu Ra",
+          "coverImage": "https://c.saavncdn.com/114/Aakaasam-Nee-Haddhu-Ra-Telugu-2020-20201111104315-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_TNKEmcI_",
+        "id": "ext_saavn_TNKEmcI_",
+        "externalId": "TNKEmcI_",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Kola Kalle Ilaa",
+        "name": "Kola Kalle Ilaa",
+        "uri": "https://aac.saavncdn.com/null/018f1aa455d28087c897c67937ae7caf_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/null/018f1aa455d28087c897c67937ae7caf_160.mp4",
+        "coverImage": "https://c.saavncdn.com/000/Varudu-Kaavalenu-Telugu-2021-20211025163712-500x500.jpg",
+        "duration": 223,
+        "duration_ms": 223000,
+        "playsCount": 18211448,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_689580",
+          "username": "Sid Sriram",
+          "name": "Sid Sriram",
+          "role": "artist"
+        },
+        "artistName": "Sid Sriram",
+        "album": {
+          "_id": "ext_saavn_album_25340237",
+          "title": "Varudu Kaavalenu",
+          "coverImage": "https://c.saavncdn.com/000/Varudu-Kaavalenu-Telugu-2021-20211025163712-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_c5jJL3zu",
+        "id": "ext_saavn_c5jJL3zu",
+        "externalId": "c5jJL3zu",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Cheliya Cheliya",
+        "name": "Cheliya Cheliya",
+        "uri": "https://aac.saavncdn.com/944/61d3d057df01ce508d334d3e9db8023e_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/944/61d3d057df01ce508d334d3e9db8023e_160.mp4",
+        "coverImage": "https://c.saavncdn.com/944/Gharshana-New-2004-500x500.jpg",
+        "duration": 321,
+        "duration_ms": 321000,
+        "playsCount": 35625062,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_455243",
+          "username": "Harris Jayaraj",
+          "name": "Harris Jayaraj",
+          "role": "artist"
+        },
+        "artistName": "Harris Jayaraj",
+        "album": {
+          "_id": "ext_saavn_album_1027944",
+          "title": "Gharshana (New)",
+          "coverImage": "https://c.saavncdn.com/944/Gharshana-New-2004-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_Zj9i9q_L",
+        "id": "ext_saavn_Zj9i9q_L",
+        "externalId": "Zj9i9q_L",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Saranga Dariya",
+        "name": "Saranga Dariya",
+        "uri": "https://aac.saavncdn.com/582/499f47fee99a0809e9d2b343ac2bec8e_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/582/499f47fee99a0809e9d2b343ac2bec8e_160.mp4",
+        "coverImage": "https://c.saavncdn.com/582/Love-Story-Telugu-2020-20210923220520-500x500.jpg",
+        "duration": 230,
+        "duration_ms": 230000,
+        "playsCount": 39436954,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_544381",
+          "username": "Mangli",
+          "name": "Mangli",
+          "role": "artist"
+        },
+        "artistName": "Mangli",
+        "album": {
+          "_id": "ext_saavn_album_19533781",
+          "title": "Love Story",
+          "coverImage": "https://c.saavncdn.com/582/Love-Story-Telugu-2020-20210923220520-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_A7AAUlh8",
+        "id": "ext_saavn_A7AAUlh8",
+        "externalId": "A7AAUlh8",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Nijame Ne Chebutunna",
+        "name": "Nijame Ne Chebutunna",
+        "uri": "https://aac.saavncdn.com/000/507ac0876cbea201b822123ed81ea3fc_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/000/507ac0876cbea201b822123ed81ea3fc_160.mp4",
+        "coverImage": "https://c.saavncdn.com/000/Ooru-Peru-Bhairavakona-Telugu-2023-20240215171825-500x500.jpg",
+        "duration": 214,
+        "duration_ms": 214000,
+        "playsCount": 91121539,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_689580",
+          "username": "Sid Sriram",
+          "name": "Sid Sriram",
+          "role": "artist"
+        },
+        "artistName": "Sid Sriram",
+        "album": {
+          "_id": "ext_saavn_album_44089012",
+          "title": "Ooru Peru Bhairavakona",
+          "coverImage": "https://c.saavncdn.com/000/Ooru-Peru-Bhairavakona-Telugu-2023-20240215171825-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_ZcpmPz2V",
+        "id": "ext_saavn_ZcpmPz2V",
+        "externalId": "ZcpmPz2V",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Kalaavathi",
+        "name": "Kalaavathi",
+        "uri": "https://aac.saavncdn.com/250/d067c88312cbc32cc708e20ff55f4360_sar_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/250/d067c88312cbc32cc708e20ff55f4360_sar_160.mp4",
+        "coverImage": "https://c.saavncdn.com/250/Sarkaru-Vaari-Paata-Telugu-2022-20220704160854-500x500.jpg",
+        "duration": 242,
+        "duration_ms": 242000,
+        "playsCount": 39332634,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_689580",
+          "username": "Sid Sriram",
+          "name": "Sid Sriram",
+          "role": "artist"
+        },
+        "artistName": "Sid Sriram",
+        "album": {
+          "_id": "ext_saavn_album_32872905",
+          "title": "Sarkaru Vaari Paata",
+          "coverImage": "https://c.saavncdn.com/250/Sarkaru-Vaari-Paata-Telugu-2022-20220704160854-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_KTxkVwWk",
+        "id": "ext_saavn_KTxkVwWk",
+        "externalId": "KTxkVwWk",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Urike Urike",
+        "name": "Urike Urike",
+        "uri": "https://aac.saavncdn.com/088/c55df5f8dc78a21c0541ca8962d8e5be_sar_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/088/c55df5f8dc78a21c0541ca8962d8e5be_sar_160.mp4",
+        "coverImage": "https://c.saavncdn.com/088/Urike-Urike-From-Hit-2-Telugu-2022-20221109104107-500x500.jpg",
+        "duration": 275,
+        "duration_ms": 275000,
+        "playsCount": 17508046,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_456183",
+          "username": "M.M. Sreelekha",
+          "name": "M.M. Sreelekha",
+          "role": "artist"
+        },
+        "artistName": "M.M. Sreelekha",
+        "album": {
+          "_id": "ext_saavn_album_39792377",
+          "title": "Urike Urike (From \"Hit 2\")",
+          "coverImage": "https://c.saavncdn.com/088/Urike-Urike-From-Hit-2-Telugu-2022-20221109104107-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_ecP8EX0Q",
+        "id": "ext_saavn_ecP8EX0Q",
+        "externalId": "ecP8EX0Q",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Sirivennela",
+        "name": "Sirivennela",
+        "uri": "https://aac.saavncdn.com/008/663f6bb75d853aa700bffbebcb4e74fc_sar_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/008/663f6bb75d853aa700bffbebcb4e74fc_sar_160.mp4",
+        "coverImage": "https://c.saavncdn.com/008/Shyam-Singha-Roy-Telugu-Telugu-2021-20220113123204-500x500.jpg",
+        "duration": 253,
+        "duration_ms": 253000,
+        "playsCount": 29648444,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_2173013",
+          "username": "Anurag Kulkarni",
+          "name": "Anurag Kulkarni",
+          "role": "artist"
+        },
+        "artistName": "Anurag Kulkarni",
+        "album": {
+          "_id": "ext_saavn_album_30691174",
+          "title": "Shyam Singha Roy - Telugu",
+          "coverImage": "https://c.saavncdn.com/008/Shyam-Singha-Roy-Telugu-Telugu-2021-20220113123204-500x500.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "feelgood-classics",
+    "tag": "feelgood-classics",
+    "title": "Evergreen Telugu Melodies • Nostalgic Classics",
+    "name": "Evergreen Telugu Melodies • Nostalgic Classics",
+    "tracks": [
+      {
+        "_id": "ext_saavn_--YuvS1T",
+        "id": "ext_saavn_--YuvS1T",
+        "externalId": "--YuvS1T",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Mellaga",
+        "name": "Mellaga",
+        "uri": "https://aac.saavncdn.com/449/b717def9c5f121922438f64724791d20_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/449/b717def9c5f121922438f64724791d20_160.mp4",
+        "coverImage": "https://c.saavncdn.com/449/Varsham-2003-500x500.jpg",
+        "duration": 321,
+        "duration_ms": 321000,
+        "playsCount": 74397676,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_455170",
+          "username": "Devi Sri Prasad",
+          "name": "Devi Sri Prasad",
+          "role": "artist"
+        },
+        "artistName": "Devi Sri Prasad",
+        "album": {
+          "_id": "ext_saavn_album_1053449",
+          "title": "Varsham",
+          "coverImage": "https://c.saavncdn.com/449/Varsham-2003-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_jno1P1e7",
+        "id": "ext_saavn_jno1P1e7",
+        "externalId": "jno1P1e7",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Ghal Ghal (Akasam Thakela)",
+        "name": "Ghal Ghal (Akasam Thakela)",
+        "uri": "https://aac.saavncdn.com/347/56503bc98c59c98dc574419c5541c4e4_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/347/56503bc98c59c98dc574419c5541c4e4_160.mp4",
+        "coverImage": "https://c.saavncdn.com/347/Nuvvostanante-Nenoddantana-Telugu-2014-20181121-500x500.jpg",
+        "duration": 319,
+        "duration_ms": 319000,
+        "playsCount": 6420873,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_741999",
+          "username": "S.P. Balasubrahmanyam",
+          "name": "S.P. Balasubrahmanyam",
+          "role": "artist"
+        },
+        "artistName": "S.P. Balasubrahmanyam",
+        "album": {
+          "_id": "ext_saavn_album_1041313",
+          "title": "Nuvvostanante Nenoddantana",
+          "coverImage": "https://c.saavncdn.com/347/Nuvvostanante-Nenoddantana-Telugu-2014-20181121-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_5wwFmzKP",
+        "id": "ext_saavn_5wwFmzKP",
+        "externalId": "5wwFmzKP",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Nuvve Nuvve Kavalantundi",
+        "name": "Nuvve Nuvve Kavalantundi",
+        "uri": "https://aac.saavncdn.com/312/b7f6f9bb21067eb568f3ac1b3af7ed8d_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/312/b7f6f9bb21067eb568f3ac1b3af7ed8d_160.mp4",
+        "coverImage": "https://c.saavncdn.com/312/Nuvve-Nuvve-2002-500x500.jpg",
+        "duration": 288,
+        "duration_ms": 288000,
+        "playsCount": 7994563,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_457303",
+          "username": "Koti",
+          "name": "Koti",
+          "role": "artist"
+        },
+        "artistName": "Koti",
+        "album": {
+          "_id": "ext_saavn_album_1041312",
+          "title": "Nuvve Nuvve",
+          "coverImage": "https://c.saavncdn.com/312/Nuvve-Nuvve-2002-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_B5XNg5kk",
+        "id": "ext_saavn_B5XNg5kk",
+        "externalId": "B5XNg5kk",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Nammaka Tappani",
+        "name": "Nammaka Tappani",
+        "uri": "https://aac.saavncdn.com/843/7c481f8b891d25ed2bd1a588367e6e1b_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/843/7c481f8b891d25ed2bd1a588367e6e1b_160.mp4",
+        "coverImage": "https://c.saavncdn.com/843/Bommarillu-2000-500x500.jpg",
+        "duration": 273,
+        "duration_ms": 273000,
+        "playsCount": 13097116,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_455170",
+          "username": "Devi Sri Prasad",
+          "name": "Devi Sri Prasad",
+          "role": "artist"
+        },
+        "artistName": "Devi Sri Prasad",
+        "album": {
+          "_id": "ext_saavn_album_1022843",
+          "title": "Bommarillu",
+          "coverImage": "https://c.saavncdn.com/843/Bommarillu-2000-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_LLF5ZxnQ",
+        "id": "ext_saavn_LLF5ZxnQ",
+        "externalId": "LLF5ZxnQ",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Chiru Chiru",
+        "name": "Chiru Chiru",
+        "uri": "https://aac.saavncdn.com/612/9c7b1b948242534344ea7acf3da553dc_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/612/9c7b1b948242534344ea7acf3da553dc_160.mp4",
+        "coverImage": "https://c.saavncdn.com/612/Awaara-Telugu-2013-500x500.jpg",
+        "duration": 286,
+        "duration_ms": 286000,
+        "playsCount": 77124395,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_456091",
+          "username": "Yuvan Shankar Raja",
+          "name": "Yuvan Shankar Raja",
+          "role": "artist"
+        },
+        "artistName": "Yuvan Shankar Raja",
+        "album": {
+          "_id": "ext_saavn_album_1658261",
+          "title": "Awaara",
+          "coverImage": "https://c.saavncdn.com/612/Awaara-Telugu-2013-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_8LuebslM",
+        "id": "ext_saavn_8LuebslM",
+        "externalId": "8LuebslM",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Gaali Vaaluga",
+        "name": "Gaali Vaaluga",
+        "uri": "https://aac.saavncdn.com/243/3275e815673ba51aefd34100830875fc_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/243/3275e815673ba51aefd34100830875fc_160.mp4",
+        "coverImage": "https://c.saavncdn.com/385/Agnyaathavaasi-Telugu-2017-20180102061403-500x500.jpg",
+        "duration": 258,
+        "duration_ms": 258000,
+        "playsCount": 33795403,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_455663",
+          "username": "Anirudh Ravichander",
+          "name": "Anirudh Ravichander",
+          "role": "artist"
+        },
+        "artistName": "Anirudh Ravichander",
+        "album": {
+          "_id": "ext_saavn_album_11971385",
+          "title": "Agnyaathavaasi",
+          "coverImage": "https://c.saavncdn.com/385/Agnyaathavaasi-Telugu-2017-20180102061403-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_2c6xFK5m",
+        "id": "ext_saavn_2c6xFK5m",
+        "externalId": "2c6xFK5m",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Em Sandeham Ledu",
+        "name": "Em Sandeham Ledu",
+        "uri": "https://aac.saavncdn.com/243/c1e3c893e19e706cc87c8ff7ca7ba8b1_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/243/c1e3c893e19e706cc87c8ff7ca7ba8b1_160.mp4",
+        "coverImage": "https://c.saavncdn.com/243/Oohalu-Gusagusalade-Telugu-2014-20240802162328-500x500.jpg",
+        "duration": 232,
+        "duration_ms": 232000,
+        "playsCount": 4366506,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_673803",
+          "username": "Sunitha Upadrasta",
+          "name": "Sunitha Upadrasta",
+          "role": "artist"
+        },
+        "artistName": "Sunitha Upadrasta",
+        "album": {
+          "_id": "ext_saavn_album_56783991",
+          "title": "Oohalu Gusagusalade (Original Motion Picture Soundtrack)",
+          "coverImage": "https://c.saavncdn.com/243/Oohalu-Gusagusalade-Telugu-2014-20240802162328-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_egqN9nKL",
+        "id": "ext_saavn_egqN9nKL",
+        "externalId": "egqN9nKL",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Adhento Gaani Vunnapaatuga",
+        "name": "Adhento Gaani Vunnapaatuga",
+        "uri": "https://aac.saavncdn.com/623/3fdef490938e83e350d820bc031dde3a_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/623/3fdef490938e83e350d820bc031dde3a_160.mp4",
+        "coverImage": "https://c.saavncdn.com/623/Jersey-Telugu-2019-20190427102305-500x500.jpg",
+        "duration": 237,
+        "duration_ms": 237000,
+        "playsCount": 44108183,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_455663",
+          "username": "Anirudh Ravichander",
+          "name": "Anirudh Ravichander",
+          "role": "artist"
+        },
+        "artistName": "Anirudh Ravichander",
+        "album": {
+          "_id": "ext_saavn_album_15120589",
+          "title": "Jersey",
+          "coverImage": "https://c.saavncdn.com/623/Jersey-Telugu-2019-20190427102305-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_CRnb-xpg",
+        "id": "ext_saavn_CRnb-xpg",
+        "externalId": "CRnb-xpg",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Nuvve Kavali",
+        "name": "Nuvve Kavali",
+        "uri": "https://aac.saavncdn.com/204/2503813d5564382187727041c2f93db3_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/204/2503813d5564382187727041c2f93db3_160.mp4",
+        "coverImage": "https://c.saavncdn.com/204/Nuvve-Kavali-Telugu-2025-20250122153122-500x500.jpg",
+        "duration": 311,
+        "duration_ms": 311000,
+        "playsCount": 584102,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_461307",
+          "username": "Manish Kumar",
+          "name": "Manish Kumar",
+          "role": "artist"
+        },
+        "artistName": "Manish Kumar",
+        "album": {
+          "_id": "ext_saavn_album_61413504",
+          "title": "Nuvve Kavali",
+          "coverImage": "https://c.saavncdn.com/204/Nuvve-Kavali-Telugu-2025-20250122153122-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_clDYYBgo",
+        "id": "ext_saavn_clDYYBgo",
+        "externalId": "clDYYBgo",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Panchadaara",
+        "name": "Panchadaara",
+        "uri": "https://aac.saavncdn.com/896/b31711f5ffc53101d52d93a5219e95da_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/896/b31711f5ffc53101d52d93a5219e95da_160.mp4",
+        "coverImage": "https://c.saavncdn.com/896/Magadheera-2009-500x500.jpg",
+        "duration": 289,
+        "duration_ms": 289000,
+        "playsCount": 9600029,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_813721",
+          "username": "M. M. Keeravani",
+          "name": "M. M. Keeravani",
+          "role": "artist"
+        },
+        "artistName": "M. M. Keeravani",
+        "album": {
+          "_id": "ext_saavn_album_1036896",
+          "title": "Magadheera",
+          "coverImage": "https://c.saavncdn.com/896/Magadheera-2009-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_v4trWj4L",
+        "id": "ext_saavn_v4trWj4L",
+        "externalId": "v4trWj4L",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Kundanapu Bomma",
+        "name": "Kundanapu Bomma",
+        "uri": "https://aac.saavncdn.com/596/def98c82e0df5d0e8ae0c26c4be23459_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/596/def98c82e0df5d0e8ae0c26c4be23459_160.mp4",
+        "coverImage": "https://c.saavncdn.com/596/Yemaaya-Chesave-Telugu-2010-20190822154149-500x500.jpg",
+        "duration": 332,
+        "duration_ms": 332000,
+        "playsCount": 10048143,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_456269",
+          "username": "A.R. Rahman",
+          "name": "A.R. Rahman",
+          "role": "artist"
+        },
+        "artistName": "A.R. Rahman",
+        "album": {
+          "_id": "ext_saavn_album_2666987",
+          "title": "Yemaaya Chesave",
+          "coverImage": "https://c.saavncdn.com/596/Yemaaya-Chesave-Telugu-2010-20190822154149-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_xG2lASvi",
+        "id": "ext_saavn_xG2lASvi",
+        "externalId": "xG2lASvi",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Ammaye",
+        "name": "Ammaye",
+        "uri": "https://aac.saavncdn.com/470/5c9480879b15327be696731ab9b78e21_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/470/5c9480879b15327be696731ab9b78e21_160.mp4",
+        "coverImage": "https://c.saavncdn.com/470/Kushi-2001-500x500.jpg",
+        "duration": 292,
+        "duration_ms": 292000,
+        "playsCount": 36109421,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_456531",
+          "username": "Mani Sharma",
+          "name": "Mani Sharma",
+          "role": "artist"
+        },
+        "artistName": "Mani Sharma",
+        "album": {
+          "_id": "ext_saavn_album_1035470",
+          "title": "Kushi",
+          "coverImage": "https://c.saavncdn.com/470/Kushi-2001-500x500.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "bollywood",
+    "tag": "bollywood",
+    "title": "Bollywood & Hindi Hits",
+    "name": "Bollywood & Hindi Hits",
+    "tracks": [
+      {
+        "_id": "ext_saavn_zND_RkED",
+        "id": "ext_saavn_zND_RkED",
+        "externalId": "zND_RkED",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Jo Tum Mere Ho",
+        "name": "Jo Tum Mere Ho",
+        "uri": "https://aac.saavncdn.com/401/1e4444c13f76ac543c19b01d7ea0423a_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/401/1e4444c13f76ac543c19b01d7ea0423a_160.mp4",
+        "coverImage": "https://c.saavncdn.com/401/Jo-Tum-Mere-Ho-Hindi-2024-20240731053953-500x500.jpg",
+        "duration": 252,
+        "duration_ms": 252000,
+        "playsCount": 61208722,
+        "language": "hindi",
+        "artist": {
+          "_id": "ext_saavn_artist_4878402",
+          "username": "Anuv Jain",
+          "name": "Anuv Jain",
+          "role": "artist"
+        },
+        "artistName": "Anuv Jain",
+        "album": {
+          "_id": "ext_saavn_album_56692135",
+          "title": "Jo Tum Mere Ho",
+          "coverImage": "https://c.saavncdn.com/401/Jo-Tum-Mere-Ho-Hindi-2024-20240731053953-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_4mHUvJ4u",
+        "id": "ext_saavn_4mHUvJ4u",
+        "externalId": "4mHUvJ4u",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Satranga",
+        "name": "Satranga",
+        "uri": "https://aac.saavncdn.com/092/86b1368e104225e0bfbc69cda4ab8580_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/092/86b1368e104225e0bfbc69cda4ab8580_160.mp4",
+        "coverImage": "https://c.saavncdn.com/092/ANIMAL-Hindi-2023-20260724191152-500x500.jpg",
+        "duration": 271,
+        "duration_ms": 271000,
+        "playsCount": 82362639,
+        "language": "hindi",
+        "artist": {
+          "_id": "ext_saavn_artist_459320",
+          "username": "Arijit Singh",
+          "name": "Arijit Singh",
+          "role": "artist"
+        },
+        "artistName": "Arijit Singh",
+        "album": {
+          "_id": "ext_saavn_album_49986024",
+          "title": "ANIMAL",
+          "coverImage": "https://c.saavncdn.com/092/ANIMAL-Hindi-2023-20260724191152-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_wcsDiSsA",
+        "id": "ext_saavn_wcsDiSsA",
+        "externalId": "wcsDiSsA",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "O Maahi",
+        "name": "O Maahi",
+        "uri": "https://aac.saavncdn.com/139/61036495c7ba45adf72a856b60f054fd_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/139/61036495c7ba45adf72a856b60f054fd_160.mp4",
+        "coverImage": "https://c.saavncdn.com/139/Dunki-Hindi-2023-20231220211003-500x500.jpg",
+        "duration": 233,
+        "duration_ms": 233000,
+        "playsCount": 112782672,
+        "language": "hindi",
+        "artist": {
+          "_id": "ext_saavn_artist_456323",
+          "username": "Pritam",
+          "name": "Pritam",
+          "role": "artist"
+        },
+        "artistName": "Pritam",
+        "album": {
+          "_id": "ext_saavn_album_50592774",
+          "title": "Dunki",
+          "coverImage": "https://c.saavncdn.com/139/Dunki-Hindi-2023-20231220211003-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_faloMmjX",
+        "id": "ext_saavn_faloMmjX",
+        "externalId": "faloMmjX",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Chaleya",
+        "name": "Chaleya",
+        "uri": "https://aac.saavncdn.com/047/d1366530468931703ac909e82a3ee788_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/047/d1366530468931703ac909e82a3ee788_160.mp4",
+        "coverImage": "https://c.saavncdn.com/047/Jawan-Hindi-2023-20230921190854-500x500.jpg",
+        "duration": 200,
+        "duration_ms": 200000,
+        "playsCount": 123047881,
+        "language": "hindi",
+        "artist": {
+          "_id": "ext_saavn_artist_455663",
+          "username": "Anirudh Ravichander",
+          "name": "Anirudh Ravichander",
+          "role": "artist"
+        },
+        "artistName": "Anirudh Ravichander",
+        "album": {
+          "_id": "ext_saavn_album_48037104",
+          "title": "Jawan",
+          "coverImage": "https://c.saavncdn.com/047/Jawan-Hindi-2023-20230921190854-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_27EIckhC",
+        "id": "ext_saavn_27EIckhC",
+        "externalId": "27EIckhC",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Heeriye",
+        "name": "Heeriye",
+        "uri": "https://aac.saavncdn.com/980/f895d6829f3d46009b4d4eef5bd4f6a4_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/980/f895d6829f3d46009b4d4eef5bd4f6a4_160.mp4",
+        "coverImage": "https://c.saavncdn.com/980/Heeriye-Hindi-2024-20260105163647-500x500.jpg",
+        "duration": 217,
+        "duration_ms": 217000,
+        "playsCount": 29,
+        "language": "hindi",
+        "artist": {
+          "_id": "ext_saavn_artist_1477898",
+          "username": "Shruti Iyer",
+          "name": "Shruti Iyer",
+          "role": "artist"
+        },
+        "artistName": "Shruti Iyer",
+        "album": {
+          "_id": "ext_saavn_album_71292974",
+          "title": "Heeriye",
+          "coverImage": "https://c.saavncdn.com/980/Heeriye-Hindi-2024-20260105163647-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_qZtKBMZ_",
+        "id": "ext_saavn_qZtKBMZ_",
+        "externalId": "qZtKBMZ_",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Apna Bana Le",
+        "name": "Apna Bana Le",
+        "uri": "https://aac.saavncdn.com/815/483a6e118e8108cbb3e5cd8701674f32_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/815/483a6e118e8108cbb3e5cd8701674f32_160.mp4",
+        "coverImage": "https://c.saavncdn.com/815/Bhediya-Hindi-2023-20230927155213-500x500.jpg",
+        "duration": 261,
+        "duration_ms": 261000,
+        "playsCount": 238435059,
+        "language": "hindi",
+        "artist": {
+          "_id": "ext_saavn_artist_461968",
+          "username": "Sachin-Jigar",
+          "name": "Sachin-Jigar",
+          "role": "artist"
+        },
+        "artistName": "Sachin-Jigar",
+        "album": {
+          "_id": "ext_saavn_album_38682222",
+          "title": "Bhediya",
+          "coverImage": "https://c.saavncdn.com/815/Bhediya-Hindi-2023-20230927155213-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_rjkrTnma",
+        "id": "ext_saavn_rjkrTnma",
+        "externalId": "rjkrTnma",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Kesariya",
+        "name": "Kesariya",
+        "uri": "https://aac.saavncdn.com/871/c2febd353f3a076a406fa37510f31f9f_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/871/c2febd353f3a076a406fa37510f31f9f_160.mp4",
+        "coverImage": "https://c.saavncdn.com/871/Brahmastra-Original-Motion-Picture-Soundtrack-Hindi-2022-20221006155213-500x500.jpg",
+        "duration": 268,
+        "duration_ms": 268000,
+        "playsCount": 213762814,
+        "language": "hindi",
+        "artist": {
+          "_id": "ext_saavn_artist_456323",
+          "username": "Pritam",
+          "name": "Pritam",
+          "role": "artist"
+        },
+        "artistName": "Pritam",
+        "album": {
+          "_id": "ext_saavn_album_38845390",
+          "title": "Brahmastra",
+          "coverImage": "https://c.saavncdn.com/871/Brahmastra-Original-Motion-Picture-Soundtrack-Hindi-2022-20221006155213-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_aRZbUYD7",
+        "id": "ext_saavn_aRZbUYD7",
+        "externalId": "aRZbUYD7",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Tum Hi Ho",
+        "name": "Tum Hi Ho",
+        "uri": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/430/5c5ea5cc00e3bff45616013226f376fe_160.mp4",
+        "coverImage": "https://c.saavncdn.com/430/Aashiqui-2-Hindi-2013-500x500.jpg",
+        "duration": 262,
+        "duration_ms": 262000,
+        "playsCount": 374176943,
+        "language": "hindi",
+        "artist": {
+          "_id": "ext_saavn_artist_702592",
+          "username": "Mithoon",
+          "name": "Mithoon",
+          "role": "artist"
+        },
+        "artistName": "Mithoon",
+        "album": {
+          "_id": "ext_saavn_album_1139549",
+          "title": "Aashiqui 2",
+          "coverImage": "https://c.saavncdn.com/430/Aashiqui-2-Hindi-2013-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_mPTrDSun",
+        "id": "ext_saavn_mPTrDSun",
+        "externalId": "mPTrDSun",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Raataan Lambiyan",
+        "name": "Raataan Lambiyan",
+        "uri": "https://aac.saavncdn.com/238/35726d4394604604e961bf5b846870d0_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/238/35726d4394604604e961bf5b846870d0_160.mp4",
+        "coverImage": "https://c.saavncdn.com/238/Shershaah-Original-Motion-Picture-Soundtrack--Hindi-2021-20210815181610-500x500.jpg",
+        "duration": 230,
+        "duration_ms": 230000,
+        "playsCount": 482819181,
+        "language": "hindi",
+        "artist": {
+          "_id": "ext_saavn_artist_1595701",
+          "username": "Tanishk Bagchi",
+          "name": "Tanishk Bagchi",
+          "role": "artist"
+        },
+        "artistName": "Tanishk Bagchi",
+        "album": {
+          "_id": "ext_saavn_album_29060166",
+          "title": "Shershaah",
+          "coverImage": "https://c.saavncdn.com/238/Shershaah-Original-Motion-Picture-Soundtrack--Hindi-2021-20210815181610-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_Yv-9NmYK",
+        "id": "ext_saavn_Yv-9NmYK",
+        "externalId": "Yv-9NmYK",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Besharam Rang",
+        "name": "Besharam Rang",
+        "uri": "https://aac.saavncdn.com/807/f5a2929f50aa073c95017522ab406717_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/807/f5a2929f50aa073c95017522ab406717_160.mp4",
+        "coverImage": "https://c.saavncdn.com/807/Pathaan-Hindi-2022-20221222104158-500x500.jpg",
+        "duration": 258,
+        "duration_ms": 258000,
+        "playsCount": 78219556,
+        "language": "hindi",
+        "artist": {
+          "_id": "ext_saavn_artist_459880",
+          "username": "Vishal & Shekhar",
+          "name": "Vishal & Shekhar",
+          "role": "artist"
+        },
+        "artistName": "Vishal & Shekhar",
+        "album": {
+          "_id": "ext_saavn_album_41039709",
+          "title": "Pathaan",
+          "coverImage": "https://c.saavncdn.com/807/Pathaan-Hindi-2022-20221222104158-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_Cyu6QA-C",
+        "id": "ext_saavn_Cyu6QA-C",
+        "externalId": "Cyu6QA-C",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Kabira",
+        "name": "Kabira",
+        "uri": "https://aac.saavncdn.com/440/664097ba2ddb94e9a8c9e9527b3010ec_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/440/664097ba2ddb94e9a8c9e9527b3010ec_160.mp4",
+        "coverImage": "https://c.saavncdn.com/440/Yeh-Jawaani-Hai-Deewani-2013-500x500.jpg",
+        "duration": 224,
+        "duration_ms": 224000,
+        "playsCount": 81742970,
+        "language": "hindi",
+        "artist": {
+          "_id": "ext_saavn_artist_456323",
+          "username": "Pritam",
+          "name": "Pritam",
+          "role": "artist"
+        },
+        "artistName": "Pritam",
+        "album": {
+          "_id": "ext_saavn_album_1139559",
+          "title": "Yeh Jawaani Hai Deewani",
+          "coverImage": "https://c.saavncdn.com/440/Yeh-Jawaani-Hai-Deewani-2013-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_1I2Ua0sr",
+        "id": "ext_saavn_1I2Ua0sr",
+        "externalId": "1I2Ua0sr",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Ghungroo",
+        "name": "Ghungroo",
+        "uri": "https://aac.saavncdn.com/881/604fb2ba41aac81b5db565fcbf4fca9b_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/881/604fb2ba41aac81b5db565fcbf4fca9b_160.mp4",
+        "coverImage": "https://c.saavncdn.com/881/War-Hindi-2019-20191001104931-500x500.jpg",
+        "duration": 302,
+        "duration_ms": 302000,
+        "playsCount": 245904394,
+        "language": "hindi",
+        "artist": {
+          "_id": "ext_saavn_artist_459880",
+          "username": "Vishal & Shekhar",
+          "name": "Vishal & Shekhar",
+          "role": "artist"
+        },
+        "artistName": "Vishal & Shekhar",
+        "album": {
+          "_id": "ext_saavn_album_17182829",
+          "title": "War",
+          "coverImage": "https://c.saavncdn.com/881/War-Hindi-2019-20191001104931-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_Ke9TPSUf",
+        "id": "ext_saavn_Ke9TPSUf",
+        "externalId": "Ke9TPSUf",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Tujhe Kitna Chahne Lage",
+        "name": "Tujhe Kitna Chahne Lage",
+        "uri": "https://aac.saavncdn.com/807/bda6cd88c18ee0d75854146145922bcc_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/807/bda6cd88c18ee0d75854146145922bcc_160.mp4",
+        "coverImage": "https://c.saavncdn.com/807/Kabir-Singh-Hindi-2019-20240131131003-500x500.jpg",
+        "duration": 284,
+        "duration_ms": 284000,
+        "playsCount": 450027667,
+        "language": "hindi",
+        "artist": {
+          "_id": "ext_saavn_artist_459320",
+          "username": "Arijit Singh",
+          "name": "Arijit Singh",
+          "role": "artist"
+        },
+        "artistName": "Arijit Singh",
+        "album": {
+          "_id": "ext_saavn_album_16188900",
+          "title": "Kabir Singh",
+          "coverImage": "https://c.saavncdn.com/807/Kabir-Singh-Hindi-2019-20240131131003-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_uiEWT3kP",
+        "id": "ext_saavn_uiEWT3kP",
+        "externalId": "uiEWT3kP",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Channa Mereya",
+        "name": "Channa Mereya",
+        "uri": "https://aac.saavncdn.com/597/6da0627cfcc4b937160f664841e4572d_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/597/6da0627cfcc4b937160f664841e4572d_160.mp4",
+        "coverImage": "https://c.saavncdn.com/257/Ae-Dil-Hai-Mushkil-Hindi-2016-500x500.jpg",
+        "duration": 289,
+        "duration_ms": 289000,
+        "playsCount": 157507642,
+        "language": "hindi",
+        "artist": {
+          "_id": "ext_saavn_artist_456323",
+          "username": "Pritam",
+          "name": "Pritam",
+          "role": "artist"
+        },
+        "artistName": "Pritam",
+        "album": {
+          "_id": "ext_saavn_album_2597301",
+          "title": "Ae Dil Hai Mushkil",
+          "coverImage": "https://c.saavncdn.com/257/Ae-Dil-Hai-Mushkil-Hindi-2016-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_7a2O2B4f",
+        "id": "ext_saavn_7a2O2B4f",
+        "externalId": "7a2O2B4f",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Dil Diyan Gallan (Unplugged)",
+        "name": "Dil Diyan Gallan (Unplugged)",
+        "uri": "https://aac.saavncdn.com/351/0bce3f575165dba73b5f04b53170ce96_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/351/0bce3f575165dba73b5f04b53170ce96_160.mp4",
+        "coverImage": "https://c.saavncdn.com/351/Tiger-Zinda-Hai-Hindi-2017-20171212-500x500.jpg",
+        "duration": 243,
+        "duration_ms": 243000,
+        "playsCount": 12317993,
+        "language": "hindi",
+        "artist": {
+          "_id": "ext_saavn_artist_459880",
+          "username": "Vishal & Shekhar",
+          "name": "Vishal & Shekhar",
+          "role": "artist"
+        },
+        "artistName": "Vishal & Shekhar",
+        "album": {
+          "_id": "ext_saavn_album_11836582",
+          "title": "Tiger Zinda Hai",
+          "coverImage": "https://c.saavncdn.com/351/Tiger-Zinda-Hai-Hindi-2017-20171212-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_rj7iikje",
+        "id": "ext_saavn_rj7iikje",
+        "externalId": "rj7iikje",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Galliyan",
+        "name": "Galliyan",
+        "uri": "https://aac.saavncdn.com/151/83d9815e1d6129ff644dc9575ef6db7e_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/151/83d9815e1d6129ff644dc9575ef6db7e_160.mp4",
+        "coverImage": "https://c.saavncdn.com/151/Ek-Villain-Hindi-2014-500x500.jpg",
+        "duration": 341,
+        "duration_ms": 341000,
+        "playsCount": 73389347,
+        "language": "hindi",
+        "artist": {
+          "_id": "ext_saavn_artist_484852",
+          "username": "Ankit Tiwari",
+          "name": "Ankit Tiwari",
+          "role": "artist"
+        },
+        "artistName": "Ankit Tiwari",
+        "album": {
+          "_id": "ext_saavn_album_1158245",
+          "title": "Ek Villain",
+          "coverImage": "https://c.saavncdn.com/151/Ek-Villain-Hindi-2014-500x500.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "malayalam",
+    "tag": "malayalam",
+    "title": "Malayalam Melodies & Hits",
+    "name": "Malayalam Melodies & Hits",
+    "tracks": [
+      {
+        "_id": "ext_saavn_2DYykVUF",
+        "id": "ext_saavn_2DYykVUF",
+        "externalId": "2DYykVUF",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Minnalvala",
+        "name": "Minnalvala",
+        "uri": "https://aac.saavncdn.com/591/34f3110fdb5b218448d0c712d38b640c_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/591/34f3110fdb5b218448d0c712d38b640c_160.mp4",
+        "coverImage": "https://c.saavncdn.com/591/Narivetta-Malayalam-2025-20250602184816-500x500.jpg",
+        "duration": 295,
+        "duration_ms": 295000,
+        "playsCount": 8005653,
+        "language": "malayalam",
+        "artist": {
+          "_id": "ext_saavn_artist_546740",
+          "username": "Jakes Bejoy",
+          "name": "Jakes Bejoy",
+          "role": "artist"
+        },
+        "artistName": "Jakes Bejoy",
+        "album": {
+          "_id": "ext_saavn_album_64849052",
+          "title": "Narivetta",
+          "coverImage": "https://c.saavncdn.com/591/Narivetta-Malayalam-2025-20250602184816-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_xJVO1Mf0",
+        "id": "ext_saavn_xJVO1Mf0",
+        "externalId": "xJVO1Mf0",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Darshana",
+        "name": "Darshana",
+        "uri": "https://aac.saavncdn.com/555/dd42c3e603cb40b91cc2ddd03ae6a499_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/555/dd42c3e603cb40b91cc2ddd03ae6a499_160.mp4",
+        "coverImage": "https://c.saavncdn.com/555/Hridayam-Side-A-Malayalam-2022-20230803211029-500x500.jpg",
+        "duration": 225,
+        "duration_ms": 225000,
+        "playsCount": 21345291,
+        "language": "malayalam",
+        "artist": {
+          "_id": "ext_saavn_artist_1720724",
+          "username": "Hesham Abdul Wahab",
+          "name": "Hesham Abdul Wahab",
+          "role": "artist"
+        },
+        "artistName": "Hesham Abdul Wahab",
+        "album": {
+          "_id": "ext_saavn_album_32107946",
+          "title": "Hridayam (Side A)",
+          "coverImage": "https://c.saavncdn.com/555/Hridayam-Side-A-Malayalam-2022-20230803211029-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_DUjOqjSk",
+        "id": "ext_saavn_DUjOqjSk",
+        "externalId": "DUjOqjSk",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Kuthanthram",
+        "name": "Kuthanthram",
+        "uri": "https://aac.saavncdn.com/934/a907bd3ca1d14ac2b04b7ab10a0ddcd1_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/934/a907bd3ca1d14ac2b04b7ab10a0ddcd1_160.mp4",
+        "coverImage": "https://c.saavncdn.com/934/Manjummel-Boys-Original-Motion-Picture-Soundtrack-Malayalam-2024-20250905071140-500x500.jpg",
+        "duration": 240,
+        "duration_ms": 240000,
+        "playsCount": 5380983,
+        "language": "malayalam",
+        "artist": {
+          "_id": "ext_saavn_artist_993494",
+          "username": "Vedan",
+          "name": "Vedan",
+          "role": "artist"
+        },
+        "artistName": "Vedan",
+        "album": {
+          "_id": "ext_saavn_album_51419924",
+          "title": "Manjummel Boys (Original Motion Picture Soundtrack)",
+          "coverImage": "https://c.saavncdn.com/934/Manjummel-Boys-Original-Motion-Picture-Soundtrack-Malayalam-2024-20250905071140-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_itunes_1734806920",
+        "id": "ext_itunes_1734806920",
+        "externalId": "1734806920",
+        "source": "itunes",
+        "isExternal": true,
+        "title": "Welcome To Hyderabad (From \"Premalu\")",
+        "name": "Welcome To Hyderabad (From \"Premalu\")",
+        "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c7/ba/cf/c7bacfd3-3688-000e-3c4f-80453c18f3ea/mzaf_8377736747193559585.plus.aac.p.m4a",
+        "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c7/ba/cf/c7bacfd3-3688-000e-3c4f-80453c18f3ea/mzaf_8377736747193559585.plus.aac.p.m4a",
+        "coverImage": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ca/ec/0c/caec0c0d-4be9-b0bb-8e52-c6cd940e1783/085365666368.jpg/600x600bb.jpg",
+        "duration": 221,
+        "duration_ms": 221000,
+        "playsCount": 0,
+        "artist": {
+          "_id": "ext_itunes_artist_893563560",
+          "username": "Vishnu Vijay, Suhail Koya, Kapil Kapilan & Shakthisree Gopalan",
+          "name": "Vishnu Vijay, Suhail Koya, Kapil Kapilan & Shakthisree Gopalan",
+          "role": "artist"
+        },
+        "artistName": "Vishnu Vijay, Suhail Koya, Kapil Kapilan & Shakthisree Gopalan",
+        "album": {
+          "_id": "ext_itunes_album_1734806686",
+          "title": "Premalu (Original Motion Picture Soundtrack) - EP",
+          "coverImage": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ca/ec/0c/caec0c0d-4be9-b0bb-8e52-c6cd940e1783/085365666368.jpg/600x600bb.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_JWg0ED0Q",
+        "id": "ext_saavn_JWg0ED0Q",
+        "externalId": "JWg0ED0Q",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Malare",
+        "name": "Malare",
+        "uri": "https://aac.saavncdn.com/665/64fe9e59b56dfb5f644e9e461923979b_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/665/64fe9e59b56dfb5f644e9e461923979b_160.mp4",
+        "coverImage": "https://c.saavncdn.com/665/Premam-Malayalam-2015-500x500.jpg",
+        "duration": 316,
+        "duration_ms": 316000,
+        "playsCount": 9581881,
+        "language": "malayalam",
+        "artist": {
+          "_id": "ext_saavn_artist_455508",
+          "username": "Vijay Yesudas",
+          "name": "Vijay Yesudas",
+          "role": "artist"
+        },
+        "artistName": "Vijay Yesudas",
+        "album": {
+          "_id": "ext_saavn_album_1232739",
+          "title": "Premam",
+          "coverImage": "https://c.saavncdn.com/665/Premam-Malayalam-2015-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_azNT3vl1",
+        "id": "ext_saavn_azNT3vl1",
+        "externalId": "azNT3vl1",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Neela Nilave",
+        "name": "Neela Nilave",
+        "uri": "https://aac.saavncdn.com/411/b1fe94ac64a44fa8c0102f8ad25cdf17_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/411/b1fe94ac64a44fa8c0102f8ad25cdf17_160.mp4",
+        "coverImage": "https://c.saavncdn.com/411/RDX-Malayalam-2023-20250130073151-500x500.jpg",
+        "duration": 253,
+        "duration_ms": 253000,
+        "playsCount": 3524721,
+        "language": "malayalam",
+        "artist": {
+          "_id": "ext_saavn_artist_594484",
+          "username": "Sam C.S.",
+          "name": "Sam C.S.",
+          "role": "artist"
+        },
+        "artistName": "Sam C.S.",
+        "album": {
+          "_id": "ext_saavn_album_53851144",
+          "title": "RDX",
+          "coverImage": "https://c.saavncdn.com/411/RDX-Malayalam-2023-20250130073151-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_5lKRGwCu",
+        "id": "ext_saavn_5lKRGwCu",
+        "externalId": "5lKRGwCu",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Pavizha Mazha",
+        "name": "Pavizha Mazha",
+        "uri": "https://aac.saavncdn.com/485/28d223dd762ff6dc232df2e2ed05e4a4_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/485/28d223dd762ff6dc232df2e2ed05e4a4_160.mp4",
+        "coverImage": "https://c.saavncdn.com/485/Athiran-Malayalam-2019-20190411181147-500x500.jpg",
+        "duration": 233,
+        "duration_ms": 233000,
+        "playsCount": 12818251,
+        "language": "malayalam",
+        "artist": {
+          "_id": "ext_saavn_artist_1984120",
+          "username": "KS Harisankar",
+          "name": "KS Harisankar",
+          "role": "artist"
+        },
+        "artistName": "KS Harisankar",
+        "album": {
+          "_id": "ext_saavn_album_15472314",
+          "title": "Athiran",
+          "coverImage": "https://c.saavncdn.com/485/Athiran-Malayalam-2019-20190411181147-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_YnTqVJEf",
+        "id": "ext_saavn_YnTqVJEf",
+        "externalId": "YnTqVJEf",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Jeevamshamayi - Duet",
+        "name": "Jeevamshamayi - Duet",
+        "uri": "https://aac.saavncdn.com/421/fc3714df53584f5aa629ef6195138fc6_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/421/fc3714df53584f5aa629ef6195138fc6_160.mp4",
+        "coverImage": "https://c.saavncdn.com/421/Theevandi-Malayalam-2018-20180914-500x500.jpg",
+        "duration": 323,
+        "duration_ms": 323000,
+        "playsCount": 6139652,
+        "language": "malayalam",
+        "artist": {
+          "_id": "ext_saavn_artist_1984120",
+          "username": "KS Harisankar",
+          "name": "KS Harisankar",
+          "role": "artist"
+        },
+        "artistName": "KS Harisankar",
+        "album": {
+          "_id": "ext_saavn_album_12512934",
+          "title": "Theevandi",
+          "coverImage": "https://c.saavncdn.com/421/Theevandi-Malayalam-2018-20180914-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_B6d7Dnf9",
+        "id": "ext_saavn_B6d7Dnf9",
+        "externalId": "B6d7Dnf9",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "KALYANI (Remix)",
+        "name": "KALYANI (Remix)",
+        "uri": "https://aac.saavncdn.com/475/5fc341ce2ad68492fce5ed0bf4655f8f_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/475/5fc341ce2ad68492fce5ed0bf4655f8f_160.mp4",
+        "coverImage": "https://c.saavncdn.com/475/KALYANI-Remix-Malayalam-2026-20260622131127-500x500.jpg",
+        "duration": 269,
+        "duration_ms": 269000,
+        "playsCount": 6153073,
+        "language": "malayalam",
+        "artist": {
+          "_id": "ext_saavn_artist_9202899",
+          "username": "ARJN",
+          "name": "ARJN",
+          "role": "artist"
+        },
+        "artistName": "ARJN",
+        "album": {
+          "_id": "ext_saavn_album_77189973",
+          "title": "KALYANI (Remix)",
+          "coverImage": "https://c.saavncdn.com/475/KALYANI-Remix-Malayalam-2026-20260622131127-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_VAvqkyAA",
+        "id": "ext_saavn_VAvqkyAA",
+        "externalId": "VAvqkyAA",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Asalayavale",
+        "name": "Asalayavale",
+        "uri": "https://aac.saavncdn.com/060/f79bf35f7f40665b570a7c64434e9cac_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/060/f79bf35f7f40665b570a7c64434e9cac_160.mp4",
+        "coverImage": "https://c.saavncdn.com/060/Khalifa-Malayalam-2026-20260918134359-500x500.jpg",
+        "duration": 300,
+        "duration_ms": 300000,
+        "playsCount": 756514,
+        "language": "malayalam",
+        "artist": {
+          "_id": "ext_saavn_artist_546740",
+          "username": "Jakes Bejoy",
+          "name": "Jakes Bejoy",
+          "role": "artist"
+        },
+        "artistName": "Jakes Bejoy",
+        "album": {
+          "_id": "ext_saavn_album_79136465",
+          "title": "Khalifa",
+          "coverImage": "https://c.saavncdn.com/060/Khalifa-Malayalam-2026-20260918134359-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_wFRQqJeJ",
+        "id": "ext_saavn_wFRQqJeJ",
+        "externalId": "wFRQqJeJ",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Parayuvaan",
+        "name": "Parayuvaan",
+        "uri": "https://aac.saavncdn.com/480/cfa11cd6d240b6ccf739b2a76c7b0518_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/480/cfa11cd6d240b6ccf739b2a76c7b0518_160.mp4",
+        "coverImage": "https://c.saavncdn.com/480/Ishq-Malayalam-2019-20220506185513-500x500.jpg",
+        "duration": 277,
+        "duration_ms": 277000,
+        "playsCount": 2696631,
+        "language": "malayalam",
+        "artist": {
+          "_id": "ext_saavn_artist_546740",
+          "username": "Jakes Bejoy",
+          "name": "Jakes Bejoy",
+          "role": "artist"
+        },
+        "artistName": "Jakes Bejoy",
+        "album": {
+          "_id": "ext_saavn_album_34767142",
+          "title": "Ishq",
+          "coverImage": "https://c.saavncdn.com/480/Ishq-Malayalam-2019-20220506185513-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_5SboKYdp",
+        "id": "ext_saavn_5SboKYdp",
+        "externalId": "5SboKYdp",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Uyire",
+        "name": "Uyire",
+        "uri": "https://aac.saavncdn.com/140/3720e673743a94aae0b4d5cf9d04e1a7_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/140/3720e673743a94aae0b4d5cf9d04e1a7_160.mp4",
+        "coverImage": "https://c.saavncdn.com/140/Minnal-Murali-Malayalam-2021-20220118112804-500x500.jpg",
+        "duration": 327,
+        "duration_ms": 327000,
+        "playsCount": 1787312,
+        "language": "malayalam",
+        "artist": {
+          "_id": "ext_saavn_artist_6901041",
+          "username": "Narayani Gopan",
+          "name": "Narayani Gopan",
+          "role": "artist"
+        },
+        "artistName": "Narayani Gopan",
+        "album": {
+          "_id": "ext_saavn_album_30702826",
+          "title": "Minnal Murali",
+          "coverImage": "https://c.saavncdn.com/140/Minnal-Murali-Malayalam-2021-20220118112804-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_mkVCV4sU",
+        "id": "ext_saavn_mkVCV4sU",
+        "externalId": "mkVCV4sU",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Theerame",
+        "name": "Theerame",
+        "uri": "https://aac.saavncdn.com/865/c9a9b9a2be1c2e9d04296454ba3449d1_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/865/c9a9b9a2be1c2e9d04296454ba3449d1_160.mp4",
+        "coverImage": "https://c.saavncdn.com/865/Malik-Malayalam-2021-20231130070946-500x500.jpg",
+        "duration": 263,
+        "duration_ms": 263000,
+        "playsCount": 590921,
+        "language": "malayalam",
+        "artist": {
+          "_id": "ext_saavn_artist_642575",
+          "username": "Sooraj Santhosh",
+          "name": "Sooraj Santhosh",
+          "role": "artist"
+        },
+        "artistName": "Sooraj Santhosh",
+        "album": {
+          "_id": "ext_saavn_album_50108260",
+          "title": "Malik",
+          "coverImage": "https://c.saavncdn.com/865/Malik-Malayalam-2021-20231130070946-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_SA-3G3fh",
+        "id": "ext_saavn_SA-3G3fh",
+        "externalId": "SA-3G3fh",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Thallumaala Paattu - From \"Thallumaala\"",
+        "name": "Thallumaala Paattu - From \"Thallumaala\"",
+        "uri": "https://aac.saavncdn.com/017/10a5de8460985f469254f6fcc8dae78e_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/017/10a5de8460985f469254f6fcc8dae78e_160.mp4",
+        "coverImage": "https://c.saavncdn.com/017/Thallumaala-Malayalam-2022-20230110143259-500x500.jpg",
+        "duration": 183,
+        "duration_ms": 183000,
+        "playsCount": 1872519,
+        "language": "malayalam",
+        "artist": {
+          "_id": "ext_saavn_artist_9832500",
+          "username": "Hrithik Jayakish",
+          "name": "Hrithik Jayakish",
+          "role": "artist"
+        },
+        "artistName": "Hrithik Jayakish",
+        "album": {
+          "_id": "ext_saavn_album_34698504",
+          "title": "Thallumaala",
+          "coverImage": "https://c.saavncdn.com/017/Thallumaala-Malayalam-2022-20230110143259-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_fT4JZqBO",
+        "id": "ext_saavn_fT4JZqBO",
+        "externalId": "fT4JZqBO",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Cherathukal",
+        "name": "Cherathukal",
+        "uri": "https://aac.saavncdn.com/993/84d3c0a7f13ef6091b16a9c31c5540b2_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/993/84d3c0a7f13ef6091b16a9c31c5540b2_160.mp4",
+        "coverImage": "https://c.saavncdn.com/993/Kumbalangi-Nights-Malayalam-2019-20260210193755-500x500.jpg",
+        "duration": 221,
+        "duration_ms": 221000,
+        "playsCount": 3468310,
+        "language": "malayalam",
+        "artist": {
+          "_id": "ext_saavn_artist_758679",
+          "username": "Sushin Shyam",
+          "name": "Sushin Shyam",
+          "role": "artist"
+        },
+        "artistName": "Sushin Shyam",
+        "album": {
+          "_id": "ext_saavn_album_14970237",
+          "title": "Kumbalangi Nights",
+          "coverImage": "https://c.saavncdn.com/993/Kumbalangi-Nights-Malayalam-2019-20260210193755-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_LHActuU7",
+        "id": "ext_saavn_LHActuU7",
+        "externalId": "LHActuU7",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Rathipushpam",
+        "name": "Rathipushpam",
+        "uri": "https://aac.saavncdn.com/499/7d03c22ec44b037b3d5bfdd276f1b3b4_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/499/7d03c22ec44b037b3d5bfdd276f1b3b4_160.mp4",
+        "coverImage": "https://c.saavncdn.com/499/Bheeshma-Parvam-Malayalam-2023-20230330102726-500x500.jpg",
+        "duration": 162,
+        "duration_ms": 162000,
+        "playsCount": 191422,
+        "language": "malayalam",
+        "artist": {
+          "_id": "ext_saavn_artist_455279",
+          "username": "Unni Menon",
+          "name": "Unni Menon",
+          "role": "artist"
+        },
+        "artistName": "Unni Menon",
+        "album": {
+          "_id": "ext_saavn_album_44048908",
+          "title": "Bheeshma Parvam",
+          "coverImage": "https://c.saavncdn.com/499/Bheeshma-Parvam-Malayalam-2023-20230330102726-500x500.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "tamil",
+    "tag": "tamil",
+    "title": "Tamil Melodies & Waves",
+    "name": "Tamil Melodies & Waves",
+    "tracks": [
+      {
+        "_id": "ext_saavn_GUURlhr1",
+        "id": "ext_saavn_GUURlhr1",
+        "externalId": "GUURlhr1",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Aasa Kooda (From \"Think Indie\")",
+        "name": "Aasa Kooda (From \"Think Indie\")",
+        "uri": "https://aac.saavncdn.com/772/6cb3205b2579e7ade889bd6898d9f2b6_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/772/6cb3205b2579e7ade889bd6898d9f2b6_160.mp4",
+        "coverImage": "https://c.saavncdn.com/772/Aasa-Kooda-From-Think-Indie-Tamil-2024-20251026074529-500x500.jpg",
+        "duration": 215,
+        "duration_ms": 215000,
+        "playsCount": 37435911,
+        "language": "tamil",
+        "artist": {
+          "_id": "ext_saavn_artist_14477737",
+          "username": "Sai Abhyankkar",
+          "name": "Sai Abhyankkar",
+          "role": "artist"
+        },
+        "artistName": "Sai Abhyankkar",
+        "album": {
+          "_id": "ext_saavn_album_55191928",
+          "title": "Aasa Kooda (From \"Think Indie\")",
+          "coverImage": "https://c.saavncdn.com/772/Aasa-Kooda-From-Think-Indie-Tamil-2024-20251026074529-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_rtIe2EtQ",
+        "id": "ext_saavn_rtIe2EtQ",
+        "externalId": "rtIe2EtQ",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Hukum",
+        "name": "Hukum",
+        "uri": "https://aac.saavncdn.com/435/4161a58e6cff0010c02431e6c21728d9_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/435/4161a58e6cff0010c02431e6c21728d9_160.mp4",
+        "coverImage": "https://c.saavncdn.com/435/Jailer-Telugu-2023-20230810132954-500x500.jpg",
+        "duration": 207,
+        "duration_ms": 207000,
+        "playsCount": 25656549,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_2464968",
+          "username": "Dinker kalvala",
+          "name": "Dinker kalvala",
+          "role": "artist"
+        },
+        "artistName": "Dinker kalvala",
+        "album": {
+          "_id": "ext_saavn_album_47448663",
+          "title": "Jailer",
+          "coverImage": "https://c.saavncdn.com/435/Jailer-Telugu-2023-20230810132954-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_ahQg3u9E",
+        "id": "ext_saavn_ahQg3u9E",
+        "externalId": "ahQg3u9E",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Naa Ready",
+        "name": "Naa Ready",
+        "uri": "https://aac.saavncdn.com/415/3789bee89b94522160f1e50b2266d2c4_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/415/3789bee89b94522160f1e50b2266d2c4_160.mp4",
+        "coverImage": "https://c.saavncdn.com/415/Leo-Original-Motion-Picture-Soundtrack-English-2023-20231019170311-500x500.jpg",
+        "duration": 248,
+        "duration_ms": 248000,
+        "playsCount": 34555237,
+        "language": "tamil",
+        "artist": {
+          "_id": "ext_saavn_artist_456196",
+          "username": "Vijay",
+          "name": "Vijay",
+          "role": "artist"
+        },
+        "artistName": "Vijay",
+        "album": {
+          "_id": "ext_saavn_album_49113982",
+          "title": "Leo",
+          "coverImage": "https://c.saavncdn.com/415/Leo-Original-Motion-Picture-Soundtrack-English-2023-20231019170311-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_AgeRwxTb",
+        "id": "ext_saavn_AgeRwxTb",
+        "externalId": "AgeRwxTb",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Arabic Kuthu - Halamithi Habibo",
+        "name": "Arabic Kuthu - Halamithi Habibo",
+        "uri": "https://aac.saavncdn.com/510/9d96fc7ddd4ffadb745f25aed86f7a4e_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/510/9d96fc7ddd4ffadb745f25aed86f7a4e_160.mp4",
+        "coverImage": "https://c.saavncdn.com/510/Beast-Tamil-2022-20220504184736-500x500.jpg",
+        "duration": 279,
+        "duration_ms": 279000,
+        "playsCount": 53874212,
+        "language": "tamil",
+        "artist": {
+          "_id": "ext_saavn_artist_455663",
+          "username": "Anirudh Ravichander",
+          "name": "Anirudh Ravichander",
+          "role": "artist"
+        },
+        "artistName": "Anirudh Ravichander",
+        "album": {
+          "_id": "ext_saavn_album_34735026",
+          "title": "Beast",
+          "coverImage": "https://c.saavncdn.com/510/Beast-Tamil-2022-20220504184736-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_F_fgk0mb",
+        "id": "ext_saavn_F_fgk0mb",
+        "externalId": "F_fgk0mb",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Katchi Sera (From \"Think Indie\")",
+        "name": "Katchi Sera (From \"Think Indie\")",
+        "uri": "https://aac.saavncdn.com/118/3456f4e5990e8fb33d7af6678aca034a_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/118/3456f4e5990e8fb33d7af6678aca034a_160.mp4",
+        "coverImage": "https://c.saavncdn.com/118/Katchi-Sera-From-Think-Indie-Tamil-2024-20251026074526-500x500.jpg",
+        "duration": 181,
+        "duration_ms": 181000,
+        "playsCount": 29018700,
+        "language": "tamil",
+        "artist": {
+          "_id": "ext_saavn_artist_14477737",
+          "username": "Sai Abhyankkar",
+          "name": "Sai Abhyankkar",
+          "role": "artist"
+        },
+        "artistName": "Sai Abhyankkar",
+        "album": {
+          "_id": "ext_saavn_album_51297594",
+          "title": "Katchi Sera (From \"Think Indie\")",
+          "coverImage": "https://c.saavncdn.com/118/Katchi-Sera-From-Think-Indie-Tamil-2024-20251026074526-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_IJ3C0q7f",
+        "id": "ext_saavn_IJ3C0q7f",
+        "externalId": "IJ3C0q7f",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Vaathi Coming",
+        "name": "Vaathi Coming",
+        "uri": "https://aac.saavncdn.com/347/c536b256fca6b96aa432322c11c21fbb_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/347/c536b256fca6b96aa432322c11c21fbb_160.mp4",
+        "coverImage": "https://c.saavncdn.com/347/Master-Tamil-2020-20200316084627-500x500.jpg",
+        "duration": 228,
+        "duration_ms": 228000,
+        "playsCount": 50496530,
+        "language": "tamil",
+        "artist": {
+          "_id": "ext_saavn_artist_455663",
+          "username": "Anirudh Ravichander",
+          "name": "Anirudh Ravichander",
+          "role": "artist"
+        },
+        "artistName": "Anirudh Ravichander",
+        "album": {
+          "_id": "ext_saavn_album_19479273",
+          "title": "Master",
+          "coverImage": "https://c.saavncdn.com/347/Master-Tamil-2020-20200316084627-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_x2z_VPDG",
+        "id": "ext_saavn_x2z_VPDG",
+        "externalId": "x2z_VPDG",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Enjoy Enjaami",
+        "name": "Enjoy Enjaami",
+        "uri": "https://aac.saavncdn.com/940/d9265bc9d27d51d4296ef27de2547ba0_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/940/d9265bc9d27d51d4296ef27de2547ba0_160.mp4",
+        "coverImage": "https://c.saavncdn.com/940/Enjoy-Enjaami-Tamil-2021-20260227060111-500x500.jpg",
+        "duration": 279,
+        "duration_ms": 279000,
+        "playsCount": 13689448,
+        "language": "tamil",
+        "artist": {
+          "_id": "ext_saavn_artist_2379688",
+          "username": "Arivu",
+          "name": "Arivu",
+          "role": "artist"
+        },
+        "artistName": "Arivu",
+        "album": {
+          "_id": "ext_saavn_album_54713593",
+          "title": "Enjoy Enjaami",
+          "coverImage": "https://c.saavncdn.com/940/Enjoy-Enjaami-Tamil-2021-20260227060111-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_cMl8JAJm",
+        "id": "ext_saavn_cMl8JAJm",
+        "externalId": "cMl8JAJm",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Kaathalae Kaathalae (From \"96\")",
+        "name": "Kaathalae Kaathalae (From \"96\")",
+        "uri": "https://aac.saavncdn.com/379/13c0b60aee8cb98f03878d2864ebefc1_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/379/13c0b60aee8cb98f03878d2864ebefc1_160.mp4",
+        "coverImage": "https://c.saavncdn.com/379/First-Love-Vol-1-Tamil-2018-20260515194011-500x500.jpg",
+        "duration": 193,
+        "duration_ms": 193000,
+        "playsCount": 12305842,
+        "language": "tamil",
+        "artist": {
+          "_id": "ext_saavn_artist_5018862",
+          "username": "Govind Vasantha",
+          "name": "Govind Vasantha",
+          "role": "artist"
+        },
+        "artistName": "Govind Vasantha",
+        "album": {
+          "_id": "ext_saavn_album_75736669",
+          "title": "First Love, Vol. 1",
+          "coverImage": "https://c.saavncdn.com/379/First-Love-Vol-1-Tamil-2018-20260515194011-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_HifBw1Ku",
+        "id": "ext_saavn_HifBw1Ku",
+        "externalId": "HifBw1Ku",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Marakkuma Nenjam",
+        "name": "Marakkuma Nenjam",
+        "uri": "https://aac.saavncdn.com/494/ca8637be3d98d854e620dfc6e240bf7e_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/494/ca8637be3d98d854e620dfc6e240bf7e_160.mp4",
+        "coverImage": "https://c.saavncdn.com/420/Vendhu-Thanindhathu-Kaadu-Original-Motion-Picture-Soundtrack-Tamil-2022-20250905072731-500x500.jpg",
+        "duration": 258,
+        "duration_ms": 258000,
+        "playsCount": 2002577,
+        "language": "tamil",
+        "artist": {
+          "_id": "ext_saavn_artist_456269",
+          "username": "A.R. Rahman",
+          "name": "A.R. Rahman",
+          "role": "artist"
+        },
+        "artistName": "A.R. Rahman",
+        "album": {
+          "_id": "ext_saavn_album_31484135",
+          "title": "Vendhu Thanindhathu Kaadu (Original Motion Picture Soundtrack)",
+          "coverImage": "https://c.saavncdn.com/420/Vendhu-Thanindhathu-Kaadu-Original-Motion-Picture-Soundtrack-Tamil-2022-20250905072731-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_8aqtDvvD",
+        "id": "ext_saavn_8aqtDvvD",
+        "externalId": "8aqtDvvD",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Bae",
+        "name": "Bae",
+        "uri": "https://aac.saavncdn.com/435/7aa4b76f27d61ff43ebf4d33c0ee464b_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/435/7aa4b76f27d61ff43ebf4d33c0ee464b_160.mp4",
+        "coverImage": "https://c.saavncdn.com/435/Don-Tamil-2022-20220512162818-500x500.jpg",
+        "duration": 242,
+        "duration_ms": 242000,
+        "playsCount": 11276542,
+        "language": "tamil",
+        "artist": {
+          "_id": "ext_saavn_artist_455663",
+          "username": "Anirudh Ravichander",
+          "name": "Anirudh Ravichander",
+          "role": "artist"
+        },
+        "artistName": "Anirudh Ravichander",
+        "album": {
+          "_id": "ext_saavn_album_34932966",
+          "title": "Don",
+          "coverImage": "https://c.saavncdn.com/435/Don-Tamil-2022-20220512162818-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_-TFpspH-",
+        "id": "ext_saavn_-TFpspH-",
+        "externalId": "-TFpspH-",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Megham Karukatha",
+        "name": "Megham Karukatha",
+        "uri": "https://aac.saavncdn.com/238/1ceb75e4503fcc4d5110bb238a9b3ca4_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/238/1ceb75e4503fcc4d5110bb238a9b3ca4_160.mp4",
+        "coverImage": "https://c.saavncdn.com/238/Thiruchitrambalam-Tamil-2022-20220927091058-500x500.jpg",
+        "duration": 290,
+        "duration_ms": 290000,
+        "playsCount": 21945723,
+        "language": "tamil",
+        "artist": {
+          "_id": "ext_saavn_artist_455662",
+          "username": "Dhanush",
+          "name": "Dhanush",
+          "role": "artist"
+        },
+        "artistName": "Dhanush",
+        "album": {
+          "_id": "ext_saavn_album_38587235",
+          "title": "Thiruchitrambalam",
+          "coverImage": "https://c.saavncdn.com/238/Thiruchitrambalam-Tamil-2022-20220927091058-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_6UacoKQ4",
+        "id": "ext_saavn_6UacoKQ4",
+        "externalId": "6UacoKQ4",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Vikram (Title Track)",
+        "name": "Vikram (Title Track)",
+        "uri": "https://aac.saavncdn.com/973/8c9943527b672a6d1fb192431c57b6fe_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/973/8c9943527b672a6d1fb192431c57b6fe_160.mp4",
+        "coverImage": "https://c.saavncdn.com/973/Vikram-Tamil-2022-20220515182605-500x500.jpg",
+        "duration": 227,
+        "duration_ms": 227000,
+        "playsCount": 30985345,
+        "language": "tamil",
+        "artist": {
+          "_id": "ext_saavn_artist_455663",
+          "username": "Anirudh Ravichander",
+          "name": "Anirudh Ravichander",
+          "role": "artist"
+        },
+        "artistName": "Anirudh Ravichander",
+        "album": {
+          "_id": "ext_saavn_album_35003732",
+          "title": "Vikram",
+          "coverImage": "https://c.saavncdn.com/973/Vikram-Tamil-2022-20220515182605-500x500.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "kannada",
+    "tag": "kannada",
+    "title": "Kannada & Sandalwood Beats",
+    "name": "Kannada & Sandalwood Beats",
+    "tracks": [
+      {
+        "_id": "ext_saavn_bGX4y_H0",
+        "id": "ext_saavn_bGX4y_H0",
+        "externalId": "bGX4y_H0",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Toofan",
+        "name": "Toofan",
+        "uri": "https://aac.saavncdn.com/706/e39d4eaa5ae113ce6cdd599bed8d10ec_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/706/e39d4eaa5ae113ce6cdd599bed8d10ec_160.mp4",
+        "coverImage": "https://c.saavncdn.com/706/KGF-Chapter-2-Hindi-2022-20220522091045-500x500.jpg",
+        "duration": 213,
+        "duration_ms": 213000,
+        "playsCount": 22045754,
+        "language": "hindi",
+        "artist": {
+          "_id": "ext_saavn_artist_12660453",
+          "username": "Sandesh Datta Naik",
+          "name": "Sandesh Datta Naik",
+          "role": "artist"
+        },
+        "artistName": "Sandesh Datta Naik",
+        "album": {
+          "_id": "ext_saavn_album_33623338",
+          "title": "KGF Chapter 2",
+          "coverImage": "https://c.saavncdn.com/706/KGF-Chapter-2-Hindi-2022-20220522091045-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_nKpPBcKa",
+        "id": "ext_saavn_nKpPBcKa",
+        "externalId": "nKpPBcKa",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Dwapara",
+        "name": "Dwapara",
+        "uri": "https://aac.saavncdn.com/226/5273439713e5ee57c13a44a4442990e0_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/226/5273439713e5ee57c13a44a4442990e0_160.mp4",
+        "coverImage": "https://c.saavncdn.com/226/Krishnam-Pranaya-Sakhi-Kannada-2024-20250402141534-500x500.jpg",
+        "duration": 283,
+        "duration_ms": 283000,
+        "playsCount": 24866127,
+        "language": "kannada",
+        "artist": {
+          "_id": "ext_saavn_artist_463801",
+          "username": "Arjun Janya",
+          "name": "Arjun Janya",
+          "role": "artist"
+        },
+        "artistName": "Arjun Janya",
+        "album": {
+          "_id": "ext_saavn_album_63426373",
+          "title": "Krishnam Pranaya Sakhi (Original Motion Picture Soundtrack)",
+          "coverImage": "https://c.saavncdn.com/226/Krishnam-Pranaya-Sakhi-Kannada-2024-20250402141534-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_WBA-spdl",
+        "id": "ext_saavn_WBA-spdl",
+        "externalId": "WBA-spdl",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Belageddu",
+        "name": "Belageddu",
+        "uri": "https://aac.saavncdn.com/126/d442e8fff2096c20da09a7f9f4165818_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/126/d442e8fff2096c20da09a7f9f4165818_160.mp4",
+        "coverImage": "https://c.saavncdn.com/126/Kirik-Party-Kannada-2016-500x500.jpg",
+        "duration": 207,
+        "duration_ms": 207000,
+        "playsCount": 12631457,
+        "language": "kannada",
+        "artist": {
+          "_id": "ext_saavn_artist_459588",
+          "username": "Vijay Prakash",
+          "name": "Vijay Prakash",
+          "role": "artist"
+        },
+        "artistName": "Vijay Prakash",
+        "album": {
+          "_id": "ext_saavn_album_3139808",
+          "title": "Kirik Party",
+          "coverImage": "https://c.saavncdn.com/126/Kirik-Party-Kannada-2016-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_bDUVabXZ",
+        "id": "ext_saavn_bDUVabXZ",
+        "externalId": "bDUVabXZ",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Ra Ra Rakkamma",
+        "name": "Ra Ra Rakkamma",
+        "uri": "https://aac.saavncdn.com/161/39f60b963be6d0d7dd01780c3fe214e8_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/161/39f60b963be6d0d7dd01780c3fe214e8_160.mp4",
+        "coverImage": "https://c.saavncdn.com/161/Vikrant-Rona-Kannada-Kannada-2022-20250818121332-500x500.jpg",
+        "duration": 218,
+        "duration_ms": 218000,
+        "playsCount": 25035941,
+        "language": "kannada",
+        "artist": {
+          "_id": "ext_saavn_artist_459585",
+          "username": "Nakash Aziz",
+          "name": "Nakash Aziz",
+          "role": "artist"
+        },
+        "artistName": "Nakash Aziz",
+        "album": {
+          "_id": "ext_saavn_album_67297367",
+          "title": "Vikrant Rona (Kannada)",
+          "coverImage": "https://c.saavncdn.com/161/Vikrant-Rona-Kannada-Kannada-2022-20250818121332-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_KDKu3MYt",
+        "id": "ext_saavn_KDKu3MYt",
+        "externalId": "KDKu3MYt",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Dheera Dheera",
+        "name": "Dheera Dheera",
+        "uri": "https://aac.saavncdn.com/402/e5bf65a158ca0991337b4162d923fdaf_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/402/e5bf65a158ca0991337b4162d923fdaf_160.mp4",
+        "coverImage": "https://c.saavncdn.com/402/KGF-Chapter-1-Telugu-Telugu-2018-20220827063628-500x500.jpg",
+        "duration": 222,
+        "duration_ms": 222000,
+        "playsCount": 19709974,
+        "language": "telugu",
+        "artist": {
+          "_id": "ext_saavn_artist_457304",
+          "username": "Srikrishna",
+          "name": "Srikrishna",
+          "role": "artist"
+        },
+        "artistName": "Srikrishna",
+        "album": {
+          "_id": "ext_saavn_album_15453066",
+          "title": "KGF: Chapter 1",
+          "coverImage": "https://c.saavncdn.com/402/KGF-Chapter-1-Telugu-Telugu-2018-20220827063628-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_56EmUS23",
+        "id": "ext_saavn_56EmUS23",
+        "externalId": "56EmUS23",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Tagaru Banthu Tagaru",
+        "name": "Tagaru Banthu Tagaru",
+        "uri": "https://aac.saavncdn.com/912/43814f51f0ccee417bf116ae8acc44c2_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/912/43814f51f0ccee417bf116ae8acc44c2_160.mp4",
+        "coverImage": "https://c.saavncdn.com/912/Tagaru-Kannada-2018-20251204134700-500x500.jpg",
+        "duration": 207,
+        "duration_ms": 207000,
+        "playsCount": 20273325,
+        "language": "kannada",
+        "artist": {
+          "_id": "ext_saavn_artist_675208",
+          "username": "V. Nagendra Prasad",
+          "name": "V. Nagendra Prasad",
+          "role": "artist"
+        },
+        "artistName": "V. Nagendra Prasad",
+        "album": {
+          "_id": "ext_saavn_album_11989516",
+          "title": "Tagaru",
+          "coverImage": "https://c.saavncdn.com/912/Tagaru-Kannada-2018-20251204134700-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_nIGksyRm",
+        "id": "ext_saavn_nIGksyRm",
+        "externalId": "nIGksyRm",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Soul Of Dia (From \"Dia\")",
+        "name": "Soul Of Dia (From \"Dia\")",
+        "uri": "https://aac.saavncdn.com/677/ca1c19df6386452ce90793aceea59547_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/677/ca1c19df6386452ce90793aceea59547_160.mp4",
+        "coverImage": "https://c.saavncdn.com/677/Soul-Of-Dia-From-Dia-Kannada-2020-20260203193951-500x500.jpg",
+        "duration": 214,
+        "duration_ms": 214000,
+        "playsCount": 20152488,
+        "language": "kannada",
+        "artist": {
+          "_id": "ext_saavn_artist_2690452",
+          "username": "Dhananjay Ranjan",
+          "name": "Dhananjay Ranjan",
+          "role": "artist"
+        },
+        "artistName": "Dhananjay Ranjan",
+        "album": {
+          "_id": "ext_saavn_album_19114838",
+          "title": "Soul Of Dia (From \"Dia\")",
+          "coverImage": "https://c.saavncdn.com/677/Soul-Of-Dia-From-Dia-Kannada-2020-20260203193951-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_vJxUwl9Y",
+        "id": "ext_saavn_vJxUwl9Y",
+        "externalId": "vJxUwl9Y",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Bombe Helutaithe",
+        "name": "Bombe Helutaithe",
+        "uri": "https://aac.saavncdn.com/964/2665c9cfd2c22ace986f9dc6bd28491d_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/964/2665c9cfd2c22ace986f9dc6bd28491d_160.mp4",
+        "coverImage": "https://c.saavncdn.com/964/Raajakumara-Kannada-2017-20221028143846-500x500.jpg",
+        "duration": 287,
+        "duration_ms": 287000,
+        "playsCount": 16056307,
+        "language": "kannada",
+        "artist": {
+          "_id": "ext_saavn_artist_459588",
+          "username": "Vijay Prakash",
+          "name": "Vijay Prakash",
+          "role": "artist"
+        },
+        "artistName": "Vijay Prakash",
+        "album": {
+          "_id": "ext_saavn_album_39468401",
+          "title": "Raajakumara",
+          "coverImage": "https://c.saavncdn.com/964/Raajakumara-Kannada-2017-20221028143846-500x500.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "punjabi",
+    "tag": "punjabi",
+    "title": "Punjabi Beats & Bhangra",
+    "name": "Punjabi Beats & Bhangra",
+    "tracks": [
+      {
+        "_id": "ext_saavn_DF6eazs2",
+        "id": "ext_saavn_DF6eazs2",
+        "externalId": "DF6eazs2",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Winning Speech",
+        "name": "Winning Speech",
+        "uri": "https://aac.saavncdn.com/089/64beffa430e4c948223ec6bfcc3a13f0_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/089/64beffa430e4c948223ec6bfcc3a13f0_160.mp4",
+        "coverImage": "https://c.saavncdn.com/089/Winning-Speech-Punjabi-2024-20260626013220-500x500.jpg",
+        "duration": 227,
+        "duration_ms": 227000,
+        "playsCount": 26166574,
+        "language": "punjabi",
+        "artist": {
+          "_id": "ext_saavn_artist_697691",
+          "username": "Karan Aujla",
+          "name": "Karan Aujla",
+          "role": "artist"
+        },
+        "artistName": "Karan Aujla",
+        "album": {
+          "_id": "ext_saavn_album_54105651",
+          "title": "Winning Speech",
+          "coverImage": "https://c.saavncdn.com/089/Winning-Speech-Punjabi-2024-20260626013220-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_T3JBuGjG",
+        "id": "ext_saavn_T3JBuGjG",
+        "externalId": "T3JBuGjG",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Born to Shine",
+        "name": "Born to Shine",
+        "uri": "https://aac.saavncdn.com/945/b509ce839059a03d7fa023630236b568_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/945/b509ce839059a03d7fa023630236b568_160.mp4",
+        "coverImage": "https://c.saavncdn.com/945/Route-66-Punjabi-2021-20240708055109-500x500.jpg",
+        "duration": 214,
+        "duration_ms": 214000,
+        "playsCount": 1028576,
+        "language": "punjabi",
+        "artist": {
+          "_id": "ext_saavn_artist_468245",
+          "username": "Diljit Dosanjh",
+          "name": "Diljit Dosanjh",
+          "role": "artist"
+        },
+        "artistName": "Diljit Dosanjh",
+        "album": {
+          "_id": "ext_saavn_album_28221534",
+          "title": "Route 66",
+          "coverImage": "https://c.saavncdn.com/945/Route-66-Punjabi-2021-20240708055109-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_bHO-xsvi",
+        "id": "ext_saavn_bHO-xsvi",
+        "externalId": "bHO-xsvi",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "White Brown Black",
+        "name": "White Brown Black",
+        "uri": "https://aac.saavncdn.com/177/8a4e89ae82b74333f57ab3130b05d056_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/177/8a4e89ae82b74333f57ab3130b05d056_160.mp4",
+        "coverImage": "https://c.saavncdn.com/177/White-Brown-Black-Punjabi-2022-20251118151218-500x500.jpg",
+        "duration": 176,
+        "duration_ms": 176000,
+        "playsCount": 41019123,
+        "language": "punjabi",
+        "artist": {
+          "_id": "ext_saavn_artist_2985824",
+          "username": "Avvy Sra",
+          "name": "Avvy Sra",
+          "role": "artist"
+        },
+        "artistName": "Avvy Sra",
+        "album": {
+          "_id": "ext_saavn_album_40598065",
+          "title": "White Brown Black",
+          "coverImage": "https://c.saavncdn.com/177/White-Brown-Black-Punjabi-2022-20251118151218-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_K90si5_I",
+        "id": "ext_saavn_K90si5_I",
+        "externalId": "K90si5_I",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Elevated shubh (feat. Mr kallar)",
+        "name": "Elevated shubh (feat. Mr kallar)",
+        "uri": "https://aac.saavncdn.com/477/e97849f7ed8c692c4e206bef3e286d45_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/477/e97849f7ed8c692c4e206bef3e286d45_160.mp4",
+        "coverImage": "https://c.saavncdn.com/477/Elevated-shubh-feat-Mr-kallar-Hindi-2023-20230314200318-500x500.jpg",
+        "duration": 250,
+        "duration_ms": 250000,
+        "playsCount": 796505,
+        "language": "punjabi",
+        "artist": {
+          "_id": "ext_saavn_artist_13540513",
+          "username": "Allabakash Khan",
+          "name": "Allabakash Khan",
+          "role": "artist"
+        },
+        "artistName": "Allabakash Khan",
+        "album": {
+          "_id": "ext_saavn_album_43530601",
+          "title": "Elevated shubh (feat. Mr kallar)",
+          "coverImage": "https://c.saavncdn.com/477/Elevated-shubh-feat-Mr-kallar-Hindi-2023-20230314200318-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_fHcI5Kka",
+        "id": "ext_saavn_fHcI5Kka",
+        "externalId": "fHcI5Kka",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "With You",
+        "name": "With You",
+        "uri": "https://aac.saavncdn.com/671/50b256cc8e60dc8b0243f5e0767e8467_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/671/50b256cc8e60dc8b0243f5e0767e8467_160.mp4",
+        "coverImage": "https://c.saavncdn.com/671/First-of-a-Kind-From-the-Amazon-Original-Series-Punjabi-2023-20230904091351-500x500.jpg",
+        "duration": 154,
+        "duration_ms": 154000,
+        "playsCount": 30092005,
+        "language": "punjabi",
+        "artist": {
+          "_id": "ext_saavn_artist_681966",
+          "username": "AP Dhillon",
+          "name": "AP Dhillon",
+          "role": "artist"
+        },
+        "artistName": "AP Dhillon",
+        "album": {
+          "_id": "ext_saavn_album_48008610",
+          "title": "First of a Kind (From the Amazon Original Series)",
+          "coverImage": "https://c.saavncdn.com/671/First-of-a-Kind-From-the-Amazon-Original-Series-Punjabi-2023-20230904091351-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_xzUVX40K",
+        "id": "ext_saavn_xzUVX40K",
+        "externalId": "xzUVX40K",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Brown Munde",
+        "name": "Brown Munde",
+        "uri": "https://aac.saavncdn.com/973/76216adb3df5ef476f948891b40efb7a_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/973/76216adb3df5ef476f948891b40efb7a_160.mp4",
+        "coverImage": "https://c.saavncdn.com/973/Brown-Munde-English-2020-20260520131422-500x500.jpg",
+        "duration": 254,
+        "duration_ms": 254000,
+        "playsCount": 53743450,
+        "language": "punjabi",
+        "artist": {
+          "_id": "ext_saavn_artist_681966",
+          "username": "AP Dhillon",
+          "name": "AP Dhillon",
+          "role": "artist"
+        },
+        "artistName": "AP Dhillon",
+        "album": {
+          "_id": "ext_saavn_album_22560477",
+          "title": "Brown Munde",
+          "coverImage": "https://c.saavncdn.com/973/Brown-Munde-English-2020-20260520131422-500x500.jpg"
+        }
+      },
+      {
+        "_id": "ext_saavn_iMzGQX6_",
+        "id": "ext_saavn_iMzGQX6_",
+        "externalId": "iMzGQX6_",
+        "source": "saavn",
+        "isExternal": true,
+        "title": "Softly",
+        "name": "Softly",
+        "uri": "https://aac.saavncdn.com/538/727114725cd7ec508b1df0a7e4515e5e_160.mp4",
+        "audioUrl": "https://aac.saavncdn.com/538/727114725cd7ec508b1df0a7e4515e5e_160.mp4",
+        "coverImage": "https://c.saavncdn.com/538/Making-Memories-English-2023-20230818075015-500x500.jpg",
+        "duration": 155,
+        "duration_ms": 155000,
+        "playsCount": 38193719,
+        "language": "punjabi",
+        "artist": {
+          "_id": "ext_saavn_artist_697691",
+          "username": "Karan Aujla",
+          "name": "Karan Aujla",
+          "role": "artist"
+        },
+        "artistName": "Karan Aujla",
+        "album": {
+          "_id": "ext_saavn_album_47572803",
+          "title": "Making Memories",
+          "coverImage": "https://c.saavncdn.com/538/Making-Memories-English-2023-20230818075015-500x500.jpg"
+        }
+      }
+    ]
+  }
+]

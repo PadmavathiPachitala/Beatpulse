@@ -1,0 +1,11 @@
+{
+  "name": "beatpulse-music",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npm --prefix complete-backend start",
+    "build": "npm --prefix frontend run build",
+    "start:backend": "npm --prefix complete-backend start",
+    "start:frontend": "npm --prefix frontend start",
+    "test": "npm --prefix complete-backend test"
+  }
+}
