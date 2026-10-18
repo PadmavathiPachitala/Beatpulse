@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Node.js-20.x-339933?logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-5.x-000000?logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/MongoDB-Atlas-47A248?logo=mongodb&logoColor=white" alt="MongoDB Atlas" />
-  <img src="https://img.shields.io/badge/Security-10%2F10%20Tests%20Passed-1DB954" alt="Security Passed" />
 </p>
 
 ---
